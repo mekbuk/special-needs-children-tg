@@ -1,0 +1,43 @@
+﻿Phase 1: Sensor Activation (Duration: 5 mins)
+1. Doctor Action: Presses a button to trigger the start.
+2. App UI: The screen displays a bright Red Light.
+3. Child Action: The child is prompted to touch the screen.
+4. App Response: Upon touch, the app plays audio files in sequence: "Aaaaaa", "A - ANA"(Mother in Azerbaijani), "A - ATA"(FAther in Azerbaijani)
+Phase 2: Feeling the Sound (Duration: 10 mins)
+1. Step 1 (Extend Sound): Doctor prompts the child to say "Aaaa". App microphone listens for sustained audio input.
+2. Step 2 (Physical Feel): UI displays instructions for the Doctor: "Lock, this is A, feel it in your body. Put hand on throat. Vibration is felt when saying 'A'."
+3. Step 3 (Mirror Practice): The app activates the front-facing camera on the screen. The Child looks at themselves, opens their mouth, and says "A".
+4. Step 4 (Word Integration): The app plays audio: "Aaaa ANA". Doctor asks: "What sound does ANA start with?". The child answers "A".
+Phase 3: Letter Introduction (Duration: 5 mins)
+1. App UI: Displays a massive, bright letter "A" in the center of the screen (simulating an LED board).
+2. Child Action: Touches the letter "A".
+3. App Response: Displays short words next to the letter: "ANA", "ATA". An audio or visual cue emphasizes that these all start with "A".
+Phase 4: LED Games (Duration: 15 mins)
+1. Mini-Game 1: "Catch A" 
+1. App displays floating words/letters: A, ANA, EV, SU, OT.
+2. Goal: Child must tap the standalone "A".
+2. Mini-Game 2: "Hear sound - find" 
+1. App plays audio: "Aaaa".
+2. App displays images/words: ALMA(APPLE), SU(WATER), OX(ARROW).
+3. Goal: Child taps "ALMA(APPLE)".
+3. Mini-Game 3: "Where is A?" 
+1. App displays words: AT(HORSE), EV, BAL.
+2. Goal: Child taps "AT" (which contains 'A' - note: based on the translation context where HORSE = AT).
+Phase 5: Cognitive Game (Duration: 5 mins)
+1. App UI: Displays words one by one: ANA, SU, ALMA, EV.
+2. Doctor Prompt: "Is there an A?"
+3. Child Action: The child must press a "Reaction" button (e.g., a green checkmark or smiley face) only when the displayed word contains the letter A.
+Phase 6: Calming Down (Duration: 5 mins)
+1. App UI: The screen transitions to a soft, dim red light.
+2. App Audio: Plays a slow, calming voice saying "Aaaaa" and "A - MOTHER".
+3. Child Action: Child repeats calmly.
+4. App UI: Displays a breathing animation (expanding/contracting circle) for the child to follow (inhale/exhale).
+Phase 7: End of Session
+1. Doctor Prompt: "Which words did we see with A?"
+2. App UI: Displays a final summary board with visual aids for: ANA, ATA, ALMA, ATA, AL.
+Deliverables Required from LLM:
+1. Provide the JSON state structure required to track the progress through these 7 phases.
+2. Write the core logic for Phase 4 (LED Games), including the touch handlers and win-state validation.
+3. Write the component for Phase 2, specifically showing how the front-facing camera (Mirror) and instructions are rendered together.
+4. create the same sequence for the rest of Azerbaijani alphabet
+
