@@ -1,0 +1,3595 @@
+﻿NeyroLED Öyrənmə Sistemi.
+Hərəkətlə Frontal Beyin Aktivləşməsi.
+
+PROQRAMIN FƏLSƏFƏSİ.
+"Səs və hərf beyində eşitməklə deyil, hiss edilərək öyrənilir."
+ LED + SƏS + HƏRƏKƏT ƏSASLI ÖYRƏNMƏ MODELİ
+  Bu proqram -  Disleksiya riski, Autizim, Asperger, Down sindromu, inkişaf geriliyi, hiperaktivlik və diqqət çatışmazlığı olan uşaqlar üçün  uyğundu.
+ Oxu-yazısız mərhələ
+8 həftə | Həftədə 4 gün
+ NEYROPEDAQOJİ BAZA
+Bu proqram 3 əsas neyroprinsip üzərində qurulub:
+1. Səs + Hərəkət → Beyin aktivləşməsi
+-Uşaq səsi sadəcə eşitmir
+-toxunur, deyir, hərəkət edir
+-Beyində daha güclü və qalıcı əlaqə yaranır
+2. Sensor inteqrasiya → Diqqət və yaddaş
+-Görmə (LED işıq)
+-Eşitmə (səs)
+-Toxunma (panel)
+-Hərəkət (bədən)
+ Hamısı birlikdə işləyir → diqqət artır, unutma azalır
+3. Səs → Hərf → Söz → Oxu hazırlığı
+Hər şey səsdən başlayır
+Sonra hərfə keçir
+Sonra sözlə bağlanır
+ Bu zəncir oxunun neyrobazasıdır
+ PROQRAMIN ƏSAS PRİNSİPLƏRİ.
+- Hər gün yalnız 1 səs + 1 hərf
+- Dərin və təkrarlı öyrənmə
+-Oyun əsaslı yanaşma
+- Multisensor aktivlik (işıq + səs + toxunma)
+- Uşaq aktiv iştirak edir
+ QADAĞALAR
+ Masa yoxdur
+Dəftər yoxdur
+ Yazı yoxdur
+ Passiv dinləmə yoxdur
+ ƏSAS QAYDA
+ Uşaq bir an belə passiv qalmır
+ Hər an:
+- toxunur
+- seçir
+- reaksiya verir
+- hərəkət edir
+ NƏTİCƏ
+Bu model nəticəsində:
+Fonoloji şüur yaranır
+Səs-hərf əlaqəsi möhkəmlənir
+Diqqət artır
+Beyin oxuya hazır vəziyyətə gəlir
+ Yəni: uşaq oxumağı öyrənmir - oxumağa hazır beyin qurulur.
+
+ I -Cİ HƏFTƏ  -  1-Cİ GÜN.
+ Diqqət:  A səsi + A hərfi + A ilə başlayan sözlər
+ Məqsəd:
+-Beyin "qırmızı = A" əlaqəsini qurur
+-Qorxu azalır, maraq artır
+-Uşaq "A" səsini tanısın
+-"A" hərfini yadda saxlasın
+-"A" ilə başlayan sözləri ayırd etsin
+-Səs-hərf-söz arasında əlaqə qursun
+Ümumi müddət: 40 dəqiqə
+1.  SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız qırmızı işıq istifadə olunur.
+Sən deyirsən:
+ "Bu  gün biz A ilə oynayırıq"
+Tapşırıq: 
+-Qırmızı işıq yanır → uşaq toxunur
+-Hər toxunuşda sən deyirsən
+-"Aaaaa"
+ Söz əlavə et:
+Bəzən deyirsən:
+ "A - ANA"
+ "A - ATA"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+Bu hissə çox vacibdir (neyropedaqoji əsas)
+Tapşırıqlar:
+1.  Səsi uzat:
+ "Aaaaaaa"
+Uşaq təkrar edir
+-səni təkrarlayır
+-ağzının formasına baxır
+2. Bədənlə hiss etmə:
+-əl boğazda
+-"A" deyəndə titrəyiş hiss olunur
+Sən deyirsən:
+"Bax, bu A-dır, bədənində hiss et"
+3. Güzgü məşqi:
+-uşaq güzgüdə özünə baxır
+-ağzını açır → "A" deyir
+ Bu, xüsusilə disleksiya və inkişaf geriliyi üçün çox effektlidir
+Söz inteqrasiyası:
+İndi səsi sözə keçir:
+Sən deyirsən:
+ "Aaaaa - ANA"
+ "Aaaaa - ALMA"
+Soruş:
+"ANA hansı səslə başlayır?"
+Uşaq:
+ "A"
+3.  HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük A hərfi yazılır.
+Sən:
+ "Bu A-dır"
+Tapşırıq:
+-uşaq toxunur → "A"
+ Söz əlavə et:
+A hərfinin yanında qısa sözlər göstər:
+ANA  -  ATA
+Sən deyirsən:
+ "Bunların hamısı A ilə başlayır"
+Vizual + motor + səs birləşir
+4.  LED OYUNLARI (15 dəq)
+ Oyun 1: "A-nı tut"
+Ekranda müxtəlif formalar çıxır
+-yalnız A və ya A ilə başlayan sözlərə toxunulur
+Məs:
+-A  - ANA  -EV - SU - OT
+Sən deyirsən:
+"A gələndə tut!"
+ Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Aaaaa"
+Ekranda:
+LED-də 2-3  Söz  görünür (amma biri A-dır)
+ALMA  -  SU - OX
+Uşaq:
+ALMA-nı seçir
+ Oyun 3: "A haradadır?"
+LED-də sözlər qarışıq yerləşir
+-uşaq A ilə başlayanları tapır
+Məs:
+  A - B- O - A
+AT - EV - AL
+Vizual diqqət inkişaf edir
+5.  KOQNİTİV OYUN (5 dəq)
+Oyun: "A varmı?"
+Sən söz deyirsən:
+ANA   - SU  - ALMA   - EV 
+Uşaq:
+A varsa reaksiya verir.
+Fonoloji şüur başlayır.
+6.  SAKİTLƏŞMƏ (5 dəq)
+qırmızı işıq yumşaq yanır
+Sən deyirsən:
+ "Aaaaa"
+ Sonda əlavə et:
+ "A - ANA" (yavaş)\
+Uşaq:
+- sakit şəkildə təkrar edir
+- nəfəs alıb verir
+ SEANSIN  SONU.
+Soruş:
+"A ilə hansı sözləri gördük?"
+Kömək et:
+ANA -  ATA - ALMA - AT  - AL
+1-Cİ DƏRSİN NƏTİCƏSİ .
+Uşaq dərsin sonunda:
+-"A" səsini tanıyır və təkrar etməyə başlayır.
+-"A" hərfini görüb seçə bilir.
+-"A" ilə başlayan sadə sözləri (ANA, ATA, ALMA) ayırd edir.
+-Sözlərin ilk səsinin "A" olduğunu anlamağa başlayır.
+-Səs-hərf-söz əlaqəsinin ilkin forması yaranır.
+-Diqqət və reaksiya bacarığı aktivləşir.
+2-Cİ GÜN.
+ Fokus: B səsi + B hərfi + B ilə başlayan sözlər
+ Məqsəd:
+-Beyin "mavi = B" əlaqəsini qurur
+-Uşaq "B" səsini tanısın
+-"B" hərfini yadda saxlasın
+-"B" ilə başlayan sözləri ayırd etsin
+-Səs-hərf-söz əlaqəsi möhkəmlənsin
+ Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız mavi işıq istifadə olunur
+Sən deyirsən:
+"Bu gün biz B ilə oynayırıq"
+Tapşırıq:
+-Mavi işıq yanır → uşaq toxunur
+-Hər toxunuşda sən deyirsən:
+ "Bbbbb"
+ Söz əlavə et:
+Bəzən deyirsən:
+ "B - BABA"
+ "B - BAL"
+ Beyin artıq səsi sözlə bağlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+Bu hissə çox vacibdir (neyropedaqoji əsas)
+1. Səsi uzat:
+ "Bbbbbbb"
+Uşaq:
+-səni təkrarlayır
+-dodaqlarına baxır
+2. Bədənlə hiss etmə:
+-əlini dodağına və ya boğazına qoyur
+-"B" deyəndə titrəyişi hiss edir
+Sən deyirsən:
+-"Bu B-dir, dodağınla hiss et"
+3. Güzgü məşqi:
+-uşaq güzgüyə baxır
+-dodaqlarını birləşdirir → "B" deyir
+ Xüsusilə disleksiya üçün çox effektivdir
+ Söz inteqrasiyası:
+Sən deyirsən:
+ "Bbbbb - BABA"
+ "Bbbbb - BAL"
+Soruş:
+ "BABA hansı səslə başlayır?"
+Uşaq:
+"B"
+3.  HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük B hərfi yazılır
+Sən:
+ "Bu B-dir"
+Tapşırıq:
+uşaq toxunur → "B"
+ Söz əlavə et:
+B hərfinin yanında sözlər göstər:
+ BABA - BAL
+Sən deyirsən:
+ "Bunların hamısı B ilə başlayır"
+ Vizual + motor + səs birləşir
+4.  LED OYUNLARI (15 dəq)
+ Oyun 1: "B-ni tut"
+Ekranda müxtəlif formalar çıxır
+- yalnız B və ya B ilə başlayan sözlərə toxunulur
+Məs:
+B - BABA - EV - OT - AL
+Sən deyirsən:
+ "B gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+ "Bbbbb"
+Ekranda:
+ BAL - SU - ANA
+Uşaq:
+BAL seçir
+ Oyun 3: "B haradadır?"
+LED-də sözlər qarışıq yerləşir
+uşaq B ilə başlayanları tapır
+Məs:
+- B - A - M - B
+- BAL - EV - BABA
+ Vizual diqqət inkişaf edir
+5.  KOQNİTİV OYUN (5 dəq)
+Oyun: "B varmı?"
+Sən söz deyirsən:
+ BABA - ANA - BAL - EV
+Uşaq:
+ B varsa reaksiya verir
+ Fonoloji şüur inkişaf edir
+6. SAKİTLƏŞMƏ (5 dəq)
+-mavi işıq yumşaq yanır
+Sən deyirsən:
+ "Bbbbb"
+ Sonda əlavə et:
+ "B - BABA" (yavaş)
+Uşaq:
+- sakit təkrar edir
+- nəfəs alıb verir
+ SEANSIN SONU
+ Soruş:
+ "B ilə hansı sözləri gördük?"
+Kömək et:
+ BABA - BAL - BAR - BAĞ - BUZ
+  
+3-cü  GÜN
+Fokus: C səsi + C hərfi + C ilə başlayan sözlər
+ Məqsəd:
+-Beyin "narıncı = C" əlaqəsini qurur
+-Uşaq "C" səsini tanısın
+-"C" hərfini yadda saxlasın
+-"C" ilə başlayan sözləri ayırd etsin
+-Səs-hərf-söz əlaqəsi möhkəmlənsin
+ Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız narıncı işıq istifadə olunur
+Sən deyirsən:
+"Bu gün biz C ilə oynayırıq"
+Tapşırıq:
+-Narıncı işıq yanır → uşaq toxunur
+-Hər toxunuşda sən deyirsən:
+"Ccccc"
+Söz əlavə et:
+Bəzən deyirsən:
+-"C - CÜCƏ"
+-"C - CEM"
+ Beyin artıq səsi sözlə bağlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+Bu hissə çox vacibdir (neyropedaqoji əsas)
+1. Səsi uzat:
+"Ccccccc"
+Uşaq:
+-səni təkrarlayır
+-dodaqlarına baxır
+2. Bədənlə hiss etmə:
+-əlini dodağına və ya boğazına qoyur
+-"C" deyəndə titrəyişi hiss edir
+Sən deyirsən:
+"Bu C-dir, dodağınla hiss et"
+3. Güzgü məşqi:
+-uşaq güzgüyə baxır
+-dodaqlarını uyğun formaya salır → "C" deyir
+Disleksiya üçün çox effektivdir
+Söz inteqrasiyası:
+Sən deyirsən:
+-"Ccccc - CÜCƏ"
+-"Ccccc - CEM"
+Soruş:
+"CÜCƏ hansı səslə başlayır?"
+Uşaq:
+"C"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük C hərfi yazılır
+Sən:
+"Bu C-dir"
+Tapşırıq:
+-uşaq toxunur → "C"
+Söz əlavə et:
+C hərfinin yanında sözlər göstər:
+-CÜCƏ - CEM
+Sən deyirsən:
+"Bunların hamısı C ilə başlayır"
+ Vizual + motor + səs birləşir
+4. LED OYUNLARI (15 dəq)
+ Oyun 1: "C-ni tut"
+Ekranda müxtəlif formalar çıxır
+-yalnız C və ya C ilə başlayan sözlərə toxunulur
+Məs:
+C - CÜCƏ - EV - SU - ANA
+Sən deyirsən:
+"C gələndə tut!"
+ Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Ccccc"
+Ekranda:
+CEM - BAL - ANA
+Uşaq:
+CEM seçir
+ Oyun 3: "C haradadır?"
+LED-də sözlər qarışıq yerləşir
+Uşaq C ilə başlayanları tapır
+Məs:
+-C - A - M - C
+-CEM - EV - CÜCƏ
+ Vizual diqqət inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+ Oyun: "C varmı?"
+Sən söz deyirsən:
+CÜCƏ - ANA - CEM - EV
+Uşaq:
+-C varsa reaksiya verir
+ Fonoloji şüur inkişaf edir
+6. SAKİTLƏŞMƏ (5 dəq)
+-narıncı işıq yumşaq yanır
+Sən deyirsən:
+"Ccccc"
+Sonda əlavə et:
+"C - CÜCƏ" (yavaş)
+Uşaq:
+-sakit təkrar edir
+-nəfəs alıb verir
+ SEANSIN SONU
+Soruş:
+"C ilə hansı sözləri gördük?"
+Kömək et:
+CÜCƏ - CEM - CİB - CİYƏR - CƏM
+
+4- cü -  GÜN
+Fokus: Ç səsi + Ç hərfi + Ç ilə başlayan sözlər
+ Məqsəd:
+-Beyin "narıncı = Ç" əlaqəsini qurur
+-Uşaq "Ç" səsini tanısın
+-"Ç" hərfini yadda saxlasın
+-"Ç" ilə başlayan sözləri ayırd etsin
+-Səs-hərf-söz əlaqəsi möhkəmlənsin
+ Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız narıncı işıq istifadə olunur
+Sən deyirsən:
+"Bu gün biz Ç ilə oynayırıq"
+Tapşırıq:
+-Narıncı işıq yanır → uşaq toxunur
+-Hər toxunuşda sən deyirsən:
+"Ççççç"
+Söz əlavə et:
+Bəzən deyirsən:
+-"Ç - ÇANTA"
+-"Ç - ÇÖRƏK"
+ Beyin artıq səsi sözlə bağlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+Bu hissə çox vacibdir (neyropedaqoji əsas)
+1. Səsi uzat:
+"Çççççç"
+Uşaq:
+-səni təkrarlayır
+-ağzına baxır
+2. Bədənlə hiss etmə:
+-əlini ağzının önünə qoyur
+-"Ç" deyəndə havanı hiss edir
+Sən deyirsən:
+"Bu Ç-dir, havanı hiss et"
+3. Güzgü məşqi:
+-uşaq güzgüyə baxır
+-dişlərini yaxınlaşdırır → "Ç" deyir
+ Disleksiya üçün çox effektivdir
+Söz inteqrasiyası:
+Sən deyirsən:
+-"Ççç - ÇANTA"
+-"Ççç - ÇÖRƏK"
+Soruş:
+"ÇANTA hansı səslə başlayır?"
+Uşaq:
+"Ç"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük Ç hərfi yazılır
+Sən:
+"Bu Ç-dir"
+Tapşırıq:
+-uşaq toxunur → "Ç"
+Söz əlavə et:
+Ç hərfinin yanında sözlər göstər:
+-ÇANTA - ÇÖRƏK
+Sən deyirsən:
+"Bunların hamısı Ç ilə başlayır"
+ Vizual + motor + səs birləşir
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "Ç-ni tut"
+Ekranda müxtəlif formalar çıxır
+-yalnız Ç və ya Ç ilə başlayan sözlərə toxunulur
+Məs:
+Ç - ÇANTA - EV - BAL - ANA
+Sən deyirsən:
+"Ç gələndə tut!"
+ Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Çççç"
+Ekranda:
+ÇÖRƏK - SU - ANA
+Uşaq:
+ÇÖRƏK seçir
+Oyun 3: "Ç haradadır?"
+LED-də sözlər qarışıq yerləşir
+Uşaq Ç ilə başlayanları tapır
+Məs:
+-Ç - A - M - Ç
+-ÇANTA - EV - ÇÖRƏK
+ Vizual diqqət inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+ Oyun: "Ç varmı?"
+Sən söz deyirsən:
+ÇANTA - ANA - ÇÖRƏK - EV
+Uşaq:
+Ç varsa reaksiya verir
+ Fonoloji şüur inkişaf edir
+6. SAKİTLƏŞMƏ (5 dəq)
+narıncı işıq yumşaq yanır
+Sən deyirsən:
+"Çççç"
+Sonda əlavə et:
+"Ç - ÇANTA" (yavaş)
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+ SEANSIN SONU
+Soruş:
+"Ç ilə hansı sözləri gördük?"
+Kömək et:
+ÇANTA - ÇÖRƏK - ÇAY - ÇİÇƏK - ÇƏTİR
+
+I I-Cİ HƏFTƏ - 1-Cİ GÜN.
+Diqqət: D səsi + D hərfi + D ilə başlayan sözlər
+Məqsəd:
+-Beyin "mavi = D" əlaqəsini qurur
+-Qorxu azalır, maraq artır
+-Uşaq "D" səsini tanısın
+-"D" hərfini yadda saxlasın
+-"D" ilə başlayan sözləri ayırd etsin
+-Səs-hərf-söz arasında əlaqə qursun
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız mavi işıq istifadə olunur.
+Sən deyirsən:
+"Bu gün biz D ilə oynayırıq"
+Tapşırıq:
+-Mavi işıq yanır → uşaq toxunur
+-Hər toxunuşda sən deyirsən
+"Ddddd"
+Söz əlavə et:
+Bəzən deyirsən:
+"D - DOVŞAN"
+"D - DARAQ"
+Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+Bu hissə çox vacibdir (neyropedaqoji əsas)
+Tapşırıqlar:
+1. Səsi uzat:
+"Dddddd"
+Uşaq təkrar edir
+-səni təkrarlayır
+-ağzının formasına baxır
+2. Bədənlə hiss etmə:
+-əl boğazda
+-"D" deyəndə titrəyiş hiss olunur
+Sən deyirsən:
+"Bax, bu D-dir, bədənində hiss et"
+3. Güzgü məşqi:
+-uşaq güzgüdə özünə baxır
+-dil üst dişlərə yaxın → "D" deyir
+Bu, xüsusilə disleksiya və inkişaf geriliyi üçün çox effektlidir
+Söz inteqrasiyası:
+İndi səsi sözə keçir:
+Sən deyirsən:
+"Dddddd - DOVŞAN"
+"Dddddd - DƏVƏ"
+Soruş:
+"DOVŞAN hansı səslə başlayır?"
+Uşaq:
+"D"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük D hərfi yazılır.
+Sən:
+"Bu D-dir"
+Tapşırıq:
+-uşaq toxunur → "D"
+Söz əlavə et:
+D hərfinin yanında qısa sözlər göstər:
+DADA - DƏDƏ
+Sən deyirsən:
+"Bunların hamısı D ilə başlayır"
+Vizual + motor + səs birləşir
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "D-ni tut"
+Ekranda müxtəlif formalar çıxır
+-yalnız D və ya D ilə başlayan sözlərə toxunulur
+Məs:
+D - DADA - EV - SU - DAŞ
+Sən deyirsən:
+"D gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Dddddd"
+Ekranda:
+DƏVƏ - SU - OX
+Uşaq:
+DƏVƏ-ni seçir
+Oyun 3: "D haradadır?"
+LED-də sözlər qarışıq yerləşir
+-uşaq D ilə başlayanları tapır
+Məs:
+D - B - O - D
+DAŞ - EV - DƏNƏ
+Vizual diqqət inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "D varmı?"
+Sən söz deyirsən:
+DADA - SU - DAŞ - EV
+Uşaq:
+D varsa reaksiya verir.
+Fonoloji şüur başlayır.
+6. SAKİTLƏŞMƏ (5 dəq)
+Mavi işıq yumşaq yanır
+Sən deyirsən:
+"Dddddd"
+Sonda əlavə et:
+"D - DADA" (yavaş)
+Uşaq:
+-sakit şəkildə təkrar edir
+-nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"D ilə hansı sözləri gördük?"
+Kömək et:
+DADA - DƏDƏ - DƏVƏ - DAŞ - DƏNƏ
+ DƏRSİN NƏTİCƏSİ
+Uşaq dərsin sonunda:
+-"D" səsini tanıyır və təkrar etməyə başlayır
+-"D" hərfini görüb seçə bilir
+-"D" ilə başlayan sadə sözləri (DADA, DƏDƏ, DAŞ) ayırd edir
+-Sözlərin ilk səsinin "D" olduğunu anlamağa başlayır
+-Səs-hərf-söz əlaqəsinin ilkin forması yaranır
+-Diqqət və reaksiya bacarığı aktivləşir
+
+2-Cİ GÜN.
+Diqqət: E səsi + E hərfi + E ilə başlayan sözlər
+Məqsəd:
+Beyin "E = səs + hərf + söz" əlaqəsini qurur
+Uşaq "E" səsini tanıyır
+"E" hərfini yadda saxlayır
+"E" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yumşaq  mavi işıq (sakitləşdirici ton)
+Sən deyirsən:
+"Bu gün biz E ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Eeeee"
+Söz əlavə et:
+Bəzən deyirsən:
+"E - EL"
+"E - EV"
+ Beyin artıq səsi real sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Eeeeeeee"
+Uşaq təkrar edir:
+ağzının formasını müşahidə edir
+səsi hiss edir
+2. Bədənlə hiss etmə:
+əl boğazda
+"E" deyəndə titrəyiş hiss olunur
+Sən deyirsən:
+"Bax, bu E səsidir. Bədənində hiss et"
+3. Güzgü məşqi:
+uşaq güzgüdə özünə baxır
+dodaqlarını gərir → "E" deyir
+ bu mərhələ artikulyasiya üçün çox vacibdir
+Söz inteqrasiyası:
+Sən deyirsən:
+"Eeeee - EV"
+"Eeeee - EYNƏK"
+Soruş:
+"EV hansı səslə başlayır?"
+Uşaq:
+"E"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük E hərfi
+Sən deyirsən:
+"Bu E hərfidir"
+Tapşırıq:
+uşaq toxunur → "E"
+Söz vizuallaşdırma:
+E hərfi ilə sözlər göstərilir:
+EV  - EL - EN
+Sən deyirsən:
+"Bunların hamısı E ilə başlayır"
+ vizual + səs + hərf birləşir
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "E-ni tut"
+Ekranda müxtəlif hərflər və sözlər çıxır
+Tapşırıq:
+yalnız E və E ilə başlayan sözlər tutulur
+Məsələn:
+E - EV - A - OT - EL - SU
+Sən deyirsən:
+"E gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Eeeee"
+Ekranda:
+EV - ALMA - SU
+Uşaq:
+EV seçir
+Oyun 3: "E haradadır?"
+LED-də qarışıq sözlər:
+Məsələn:
+E - A - O - E
+EV - AT - EL - ANA
+Tapşırıq:
+E ilə başlayanları tap
+ diqqət və seçmə bacarığı inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "E varmı?"
+Sən söz deyirsən:
+EV - ANA - EL - SU
+Uşaq:
+"E var - yoxdur" reaksiyası verir
+fonoloji eşitmə güclənir
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Eeeee"
+Sonra yavaş:
+"E - EV"
+"E - EL"
+Uşaq:
+sakit təkrar edir
+nəfəs ritmi normallaşır
+SEANSIN SONU
+Soruş:
+"E ilə hansı sözləri gördük?"
+Kömək et:
+EV - EL -  EYNƏK
+DƏRSİN NƏTİCƏSİ (E)
+Uşaq:
+"E" səsini tanıyır və təkrar edir
+"E" hərfini vizual olaraq seçə bilir
+"E" ilə başlayan sadə sözləri (EV, EL, ELMA) ayırd edir
+Sözün ilk səsinin "E" olduğunu anlamağa başlayır
+Səs-hərf-söz əlaqəsi möhkəmlənir
+Diqqət və fonoloji şüur aktivləşir
+
+    3.-Cİ GÜN.
+Diqqət: Ə səsi + Ə hərfi + Ə ilə başlayan sözlər
+Məqsəd:
+-Beyin "Ə - səs + hərf + söz" əlaqəsini qurur
+-Uşaq "Ə" səsini tanıyır
+-"Ə" hərfini yadda saxlayır
+-"Ə" ilə başlayan sözləri ayırd edir
+-Səs-hərf-söz arasında əlaqə formalaşır
+-Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə sarı  işıq (diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz Ə ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Əəəəə"
+Söz əlavə et:
+Bəzən deyirsən:
+"Ə - ƏL"
+"Ə - ƏT"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Əəəəəəə"
+Uşaq:
+səni təkrar edir
+ağzının formasını izləyir
+2. Bədənlə hiss etmə:
+əl boğazda
+səs çıxaranda titrəyiş hiss olunur
+Sən deyirsən:
+"Bu Ə səsidir, bədənində hiss et"
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+ağzını bir az açır (A qədər geniş yox) → "Ə" deyir
+ A və Ə fərqini hiss etmək üçün çox vacibdir
+Söz inteqrasiyası:
+Sən deyirsən:
+"Əəəə - ƏL"
+"Əəəə - ƏT"
+Soruş:
+"ƏL hansı səslə başlayır?"
+Uşaq:
+"Ə"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük Ə hərfi
+Sən deyirsən:
+"Bu Ə hərfidir"
+Tapşırıq:
+uşaq toxunur → "Ə"
+Söz vizuallaşdırma:
+ƏL  - ƏT
+Sən deyirsən:
+"Bunların hamısı Ə ilə başlayır"
+vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "Ə-ni tut"
+Ekranda qarışıq hərflər və sözlər çıxır
+Məsələn:
+Ə - A - E - ƏL - SU - ƏT
+Tapşırıq:
+yalnız Ə və Ə ilə başlayanları tut
+Sən deyirsən:
+"Ə gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Əəəə"
+Ekranda:
+ƏL - ALMA - EV
+Uşaq:
+ƏL seçir
+Oyun 3: "Ə haradadır?"
+LED-də qarışıq görünür:
+Ə - A - E - Ə
+ƏL - AT - EL - ƏT
+Tapşırıq:
+Ə ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir (xüsusilə A-E-Ə üçün)
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "Ə varmı?"
+Sən sözlər deyirsən:
+ƏL- ANA - ƏT - EV
+Uşaq:
+Ə varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Əəəəə"
+Sonra yavaş:
+"Ə - ƏL"
+"Ə - ƏT"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"Ə ilə hansı sözləri gördük?"
+Kömək et:
+ƏL - ƏT- ƏR
+ DƏRSİN NƏTİCƏSİ (Ə)
+Uşaq:
+"Ə" səsini tanıyır və təkrar edir
+"Ə" hərfini vizual olaraq seçə bilir
+"Ə" ilə başlayan sadə sözləri ayırd edir (ƏL, ƏT)
+A və E ilə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+
+    4-Cİ GÜN.
+Diqqət: F səsi + F hərfi + F ilə başlayan sözlər
+Məqsəd:
+Beyin "F - səs + hərf + söz" əlaqəsini qurur
+Uşaq "F" səsini tanıyır
+"F" hərfini yadda saxlayır
+"F" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yaşıl işıq (diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz F ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Ffffff"
+Söz əlavə et:
+"F - FİL"
+"F - FƏRƏ" (və ya sadə: FƏN, FİLM)
+Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Ffffffff"
+Uşaq:
+səni təkrar edir
+dodaq və dişlərin vəziyyətini izləyir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında (hava axınını hiss edir)
+Sən deyirsən:
+"Bu F səsidir, havanı hiss et"
+ F səsi hava ilə çıxır (çox vacib fərqdir)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+alt dodaq yuxarı dişlərə toxunur → "F" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Fffff - FİL"
+"Fffff - FƏN"
+Soruş:
+"FİL hansı səslə başlayır?"
+Uşaq:
+"F"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük F hərfi
+Sən deyirsən:
+"Bu F hərfidir"
+Tapşırıq:
+uşaq toxunur → "F"
+Söz vizuallaşdırma:
+FİL - FƏN
+Sən deyirsən:
+"Bunların hamısı F ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "F-ni tut"
+Ekranda qarışıq:
+F - A - E - FİL - SU - FƏN
+Tapşırıq:
+yalnız F və F ilə başlayanları tut
+Sən deyirsən:
+"F gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Fffff"
+Ekranda:
+FİL - ALMA - EV
+Uşaq:
+FİL seçir
+Oyun 3: "F haradadır?"
+LED-də:
+F - A - E - F
+FİL - AT - EL - FƏN
+Tapşırıq:
+F ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "F varmı?"
+Sən sözlər deyirsən:
+FİL - ANA - FƏN - EV
+Uşaq:
+F varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Ffffff"
+Sonra yavaş:
+"F - FİL"
+"F - FƏN"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"F ilə hansı sözləri gördük?"
+Kömək et:
+FİL - FƏN - FİLM
+ DƏRSİN NƏTİCƏSİ (F)
+Uşaq:
+     "F" səsini tanıyır və təkrar edir
+"F" hərfini vizual olaraq seçə bilir
+"F" ilə başlayan sadə sözləri ayırd edir (FİL, FƏN)
+digər səslərlə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+
+III-Cİ HƏFTƏ - 1-Cİ GÜN.
+ Diqqət: G səsi + G hərfi + G ilə başlayan sözlər
+Məqsəd:
+Beyin "G - səs + hərf + söz" əlaqəsini qurur
+Uşaq "G" səsini tanıyır
+"G" hərfini yadda saxlayır
+"G" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+ LED lövhədə mavi işıq
+Sən deyirsən:
+"Bu gün biz G ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Gggggg"
+Söz əlavə et:
+"G - GÜL"
+"G - GƏMİ"
+"G - GÖZ"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Gggggg"
+Uşaq:
+səni təkrar edir
+boğaz titrəyişini hiss edir
+2. Bədənlə hiss etmə:
+əlini boğazına qoyur
+Sən deyirsən:
+"Bu G səsidir, boğazında titrəmə var"
+ Vacib: G səsi səslidir (titreyir), F-dən fərqli olaraq hava ilə deyil, səs telləri ilə çıxır
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+ağız bir az açıq
+dil arxaya yaxın
+"G" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Gggggg - GÜL"
+"Gggggg - GƏMİ"
+Soruş:
+"GÜL hansı səslə başlayır?"
+Uşaq:
+"G"
+3. HƏRF TANIŞLIĞI (5 dəq)
+ LED lövhədə böyük G hərfi
+Sən deyirsən:
+"Bu G hərfidir"
+Tapşırıq:
+uşaq toxunur → "G"
+Söz vizuallaşdırma:
+GÜL
+GƏMİ
+Sən deyirsən:
+"Bunların hamısı G ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "G-ni tut"
+Ekranda qarışıq:
+G - A - E - GÜL - SU - GƏMİ
+Tapşırıq:
+yalnız G və G ilə başlayanları tut
+Sən deyirsən:
+"G gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Ggggg"
+Ekranda:
+GÜL - ALMA - EV
+Uşaq:
+GÜL seçir
+Oyun 3: "G haradadır?"
+LED-də:
+G - A - E - G
+GÜL - AT - EL - GƏMİ
+Tapşırıq:
+G ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "G varmı?"
+Sən sözlər deyirsən:
+GÜL - ANA - GƏMİ - EV
+Uşaq:
+G varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+ İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Gggggg"
+Sonra yavaş:
+"G - GÜL"
+"G - GƏMİ"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"G ilə hansı sözləri gördük?"
+Kömək et:
+GÜL - GƏMİ  - GÖZ
+ DƏRSİN NƏTİCƏSİ (G)
+Uşaq:
+"G" səsini tanıyır və təkrar edir
+"G" hərfini vizual olaraq seçə bilir
+"G" ilə başlayan sadə sözləri ayırd edir (GÜL, GƏMİ)
+digər səslərlə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+     2-Cİ GÜN.
+Diqqət: Ğ səsi + Ğ hərfi + Ğ ilə başlayan sözlər
+Məqsəd:
+ Beyin "G - səs + hərf + söz" əlaqəsini qurur
+Uşaq "Ğ" hərfini tanıyır
+"Ğ" hərfinin tək başına səs çıxarmadığını anlayır
+"Ğ" olan sözləri fərqləndirir
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+ LED lövhədə bənövşəyi işıq
+Sən deyirsən:
+"Bu gün biz Ğ ilə oynayırıq"
+Vacib izah (sadə dillə):
+"Ğ tək başına danışmır, o dostlarına kömək edir"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Sən deyirsən:
+"Ğ uzadır"
+Söz nümunələri:
+DAĞ  - BAĞ  - YAĞ
+ Beyin artıq "Ğ - uzatma - köməkçi hərf" kimi qəbul etməyə başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Müqayisə ilə öyrət:
+Sən deyirsən:
+"DA - DAAĞ"
+Uşaq fərqi eşidir
+Ğ səsi uzadır, yeni səs yaratmır
+2. Bədənlə hiss etmə:
+əlini boğazına qoyur
+Sən deyirsən:
+"Ğ ayrıca səs deyil, sadəcə səsi uzadır"
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+ağız açıq qalır
+səs uzanır
+deyir:
+"AAAĞ"
+ Artikulyasiya + səs uzatma bacarığı inkişaf edir
+Söz inteqrasiyası:
+DAĞ - BAĞ
+Soruş:
+"DAĞ sözündə nə var?"
+Uşaq:
+"Ğ"
+3. HƏRF TANIŞLIĞI (5 dəq)
+ LED lövhədə böyük Ğ hərfi
+Sən deyirsən:
+"Bu Ğ hərfidir"
+Vacib vurğu:
+"Bu hərf tək danışmır"
+Tapşırıq:
+uşaq toxunur → "Ğ"
+Vizual sözlər:
+DAĞ  - BAĞ
+ vizual yaddaş formalaşır
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "Ğ olanı tap"
+Ekranda:
+DAĞ - ANA - BAĞ - EV
+Tapşırıq:
+Ğ olan sözləri seç
+Oyun 2: "Harada uzanır?"
+Sən deyirsən:
+"DAA.......G"
+Ekranda:
+DAĞ - ALMA - EV
+Uşaq:
+DAĞ seçir
+Oyun 3: "Ğ haradadır?"
+LED-də:
+A - Ğ - E - B
+DAĞ - AT - BAĞ - EL
+Tapşırıq:
+Ğ olanları tap
+ vizual fərqləndirmə güclənir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "Uzanırmı?"
+Sən sözlər deyirsən:
+DAĞ - ANA - BAĞ - EV
+Uşaq:
+uzanan sözdə reaksiya verir
+ fonoloji şüur inkişaf edir
+6. SAKİTLƏŞMƏ (5 dəq)
+ İşıq yumşaq yanır
+Sən deyirsən:
+"AAAĞ"
+Sonra:
+DAĞ  - BAĞ
+Uşaq:
+sakit təkrar edir
+nəfəsini tənzimləyir
+SEANSIN SONU
+Soruş:
+"Ğ olan hansı sözləri gördük?"
+Kömək et:
+DAĞ - BAĞ  - YAĞ
+ DƏRSİN NƏTİCƏSİ (Ğ)
+Uşaq:
+"Ğ" hərfini tanıyır
+onun tək başına səs çıxarmadığını anlayır
+söz içində "Ğ" hərfini seçə bilir
+səs uzanmasını hiss edir
+digər səslərlə fərqi anlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+     
+ 3-CÜ GÜN.
+ Diqqət: H səsi + H hərfi + H ilə başlayan sözlər
+Məqsəd:
+Beyin "H - səs + hərf + söz" əlaqəsini qurur
+Uşaq "H" səsini tanıyır
+"H" hərfini yadda saxlayır
+"H" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+ LED lövhədə narıncı işıq (diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz H ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Hhhhh"
+Söz əlavə et:
+"H - HAVA"
+"H - HƏLƏ"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Hhhhhhh"
+Uşaq:
+səni təkrar edir
+nəfəs çıxışını hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu H səsidir, havanı hiss et"
+Vacib: H səsi zəif hava ilə çıxır (yumşaq nəfəs səsi)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+ağız açıq
+nəfəs verərək "H" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Hhhh - HAVA"
+"Hhhh - HƏR"
+Soruş:
+"HAVA hansı səslə başlayır?"
+Uşaq:
+"H"
+3. HƏRF TANIŞLIĞI (5 dəq)
+ LED lövhədə böyük H hərfi
+Sən deyirsən:
+"Bu H hərfidir"
+Tapşırıq:
+uşaq toxunur → "H"
+Söz vizuallaşdırma:
+HAVA - HEYVA
+Sən deyirsən:
+"Bunların hamısı H ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "H-ni tut"
+Ekranda qarışıq:
+H - A - E - HAVA - SU - HEYVA
+Tapşırıq:
+yalnız H və H ilə başlayanları tut
+Sən deyirsən:
+"H gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Hhhhh"
+Ekranda:
+HAVA - ALMA - EV
+Uşaq:
+HAVA seçir
+Oyun 3: "H haradadır?"
+LED-də:
+H - A - E - H
+HAVA - AT - EL - HAVA
+Tapşırıq:
+H ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "H varmı?"
+Sən sözlər deyirsən:
+HAVA - ANA - HƏR - EV
+Uşaq:
+H varsa reaksiya verir
+fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Hhhhh"
+Sonra yavaş:
+"H - HAVA"
+"H - HEYKƏL"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"H ilə hansı sözləri gördük?"
+Kömək et:
+HAVA - HƏRBİ - HƏLƏ
+ DƏRSİN NƏTİCƏSİ (H)
+Uşaq:
+-"H" səsini tanıyır və təkrar edir
+-"H" hərfini vizual olaraq seçə bilir
+-"H" ilə başlayan sadə sözləri ayırd edir (HAVA, HƏLƏ)
+-digər səslərlə fərqini hiss etməyə başlayır
+-Səs-hərf-söz əlaqəsi formalaşır
+-Artikulyasiya və fonoloji şüur inkişaf edir
+    4 -Cİ GÜN
+X SƏSİ + X HƏRFİ + X İLƏ BAŞLAYAN SÖZLƏR
+ Məqsəd:
+Beynin "X səsi - X hərfi" əlaqəsini qurması
+Səsin tanınması və təkrarı
+"X" hərfinin vizual yadda saxlanması
+X ilə başlayan sözlərin seçilməsi
+Səs-hərf-söz inteqrasiyası
+Ümumi müddət: 40 dəqiqə
+1.  SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED ekranda mavi işıq
+Sən deyirsən:
+"Bu gün biz X ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Xxxxx"
+Söz inteqrasiyası:
+"X - XƏLİL" (ad nümunə kimi)
+"X - XƏZƏR" (sadə assosiasiya)
+ Məqsəd: səs + emosional əlaqə yaratmaq
+2.  SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Xxxxxxx"
+Uşaq təkrar edir
+2. Bədən hissi:
+əl boğazda
+"X" deyəndə titrəyiş hiss edilir
+Sən deyirsən:
+"Bax, X səsi bədənində belə hiss olunur"
+3. Güzgü məşqi:
+uşaq ağzına baxır
+səsi təkrar edir
+ Sözə keçid:
+Sən deyirsən:
+"Xxxxx - XƏZƏR (sadə nümunə)"
+"Xxxxx - XƏLİL"
+Soruş:
+"XƏZƏR hansı səslə başlayır?"
+Uşaq:
+"X"
+3.  HƏRF TANIŞLIĞI (5 dəq)
+LED ekranda böyük X hərfi göstərilir.
+Sən deyirsən:
+"Bu X hərfidir"
+Tapşırıq:
+uşaq toxunur → "X"
+ Vizual sözlər:
+XƏZƏR
+XALÇA
+Sən deyirsən:
+"Bunların hamısı X ilə başlayır"
+4.  LED OYUNLARI (15 dəq)
+ Oyun 1: "X-i tut"
+Ekranda qarışıq elementlər:
+X  - A - O  - M
+Tapşırıq:
+"X gələndə tut!"
+ Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Xxxxx"
+Ekranda:
+XALÇA - ANA - OT
+Uşaq:
+ XALÇA seçir
+Oyun 3: "X haradadır?"
+LED-də qarışıq hərflər:
+X - A - O - X
+Sözlər:
+XALÇA - EV - XƏZƏR
+Tapşırıq:
+X ilə başlayanları tap
+5.  KOQNİTİV OYUN (5 dəq)
+Oyun: "X varmı?"
+Sən söz deyirsən:
+XALÇA  - ANA  - XƏZƏR  - SU 
+Uşaq reaksiya verir:
+varsa əl qaldırır  - toxunur
+Məqsəd: fonoloji şüur
+6.  SAKİTLƏŞMƏ (5 dəq)
+mavi işıq
+sakit səs
+Sən deyirsən:
+"Xxxxx..."
+Sonra:
+"X - XƏZƏR" (yavaş)
+Uşaq:
+təkrar edir
+nəfəs ritmi sakitləşir
+ SEANSIN SONU
+Sual:
+"X ilə hansı sözləri gördük?"
+Kömək:
+XALÇA
+XƏZƏR
+(istənilən sadə nümunələr)
+  DƏRSİN NƏTİCƏSİ
+Uşaq:
+"X" səsini tanıyır
+"X" hərfini görüb seçir
+X ilə başlayan sözləri ayırd etməyə başlayır
+Səs-hərf əlaqəsi formalaşır
+Diqqət və eşitmə reaksiyası güclənir
+
+IV-CÜ HƏFTƏ - 1-Cİ GÜN.
+
+ I (ı) SƏSİ + I HƏRFİ + I İLƏ BAŞLAYAN SÖZLƏR
+Məqsəd:
+Beyin "sarı - I" əlaqəsini qurur 
+Uşaq "I (ı)" səsini tanıyır
+"I" hərfini yadda saxlayır
+"I" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz əlaqəsi formalaşır
+Ümumi müddət: 40 dəqiqə
+Rəng kodu:  SARI İŞIQ - I hərfi
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız sarı işıq yanır 
+Sən deyirsən:
+"Bu gün biz I (ı) ilə oynayırıq"
+Tapşırıq:
+Sarı işıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"IIIII (uzadılmış I səsi)"
+Söz inteqrasiyası:
+Bəzən deyirsən:
+"I - ARI"
+"I - ALI
+Beyin artıq səsi sözlə bağlamağa başlayır.
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"IIIIII (ııııı)"
+Uşaq təkrar edir:
+ağzının forması
+səsin uzanması
+2. Bədənlə hiss etmə:
+əl boğazda
+"I" səsi çıxanda vibrasiya hiss edilir
+Sən deyirsən:
+"Bax, bu I səsidir, bədənində hiss et"
+3. Güzgü məşqi:
+uşaq güzgüdə özünə baxır
+"ı" səsini deyir
+ağız forması müşahidə olunur
+Söz inteqrasiyası:
+Sən deyirsən:
+"IIII - AYI"
+"IIII - QAYÇI"
+Soruş:
+"  hansı səslə bitir?"
+Uşaq:
+"I"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük I (ı) hərfi ggöstərilir
+Sən:
+"Bu I hərfidir"
+Tapşırıq:
+uşaq toxunur → "I"
+Söz vizuallaşdırma:
+AL - AYI - ARI
+Sən deyirsən:
+"Bunların hamısı I ilə bitir"
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "I-ni tut" 
+Ekranda müxtəlif elementlər çıxır:
+yalnız I və ya I ilə bitən sözlərə toxunulur
+Məs:
+I - SU - DAŞ - QAYÇI- EV
+Sən deyirsən:
+"I gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"IIIIII"
+Ekranda:
+ ARI - DAŞ - EV
+Uşaq:
+"I" ilə başlayanı seçir
+Oyun 3: "I haradadır?"
+LED-də qarışıq sözlər:
+Məs:
+I - L - Q - A
+IS - SU - EV - I
+Uşaq:
+I ilə başlayanları tapır
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "I varmı?"
+Sən söz deyirsən:
+AYI - SU - ARI - EV
+Uşaq:
+"I varsa reaksiya verir"
+Fonoloji şüur aktivləşir
+6. SAKİTLƏŞMƏ (5 dəq)
+Sarı işıq yumşaq yanır 
+Sən deyirsən:
+"IIIII (yavaş və sakit)"
+Sonra:
+"I - AYI" (çox yavaş)
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"Bu gün I ilə hansı sözləri öyrəndik?"
+Kömək et:
+AYI - ŞAFTALI - ARI
+ DƏRSİN NƏTİCƏSİ
+Uşaq:
+"I" səsini tanıyır və təkrar edir
+"I" hərfini görüb seçə bilir
+I ilə başlayan sözləri ayırd edir
+Səs-hərf-söz əlaqəsi formalaşır
+Diqqət və eşitmə-fonoloji bacarıq aktivləşir
+
+2-Cİ GÜN.
+ İ  SƏSİ + İ HƏRFİ + İ İLƏ BAŞLAYAN SÖZLƏR
+Məqsəd:
+Beyin "yaşıl - İ" əlaqəsini qurur 
+Uşaq "İ" səsini tanıyır
+"İ" hərfini yadda saxlayır
+"İ" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz əlaqəsi formalaşır
+Ümumi müddət: 40 dəqiqə
+Rəng YAŞIL İŞIQ - İ hərfi
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız yaşıl işıq yanır 
+Sən deyirsən:
+"Bu gün biz İ ilə oynayırıq"
+Tapşırıq:
+Yaşıl işıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"İİİİİ (uzadılmış İ səsi)"
+Söz inteqrasiyası:
+Bəzən deyirsən:
+"İ - İT"
+"İ - İLAN"
+Beyin artıq səsi sözlə bağlamağa başlayır.
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"İİİİİİ"
+Uşaq təkrar edir:
+səsi dəqiq eşidir
+ağız forması müşahidə olunur
+2. Bədənlə hiss etmə:
+əl boğazda
+"İ" səsi çıxanda yüngül vibrasiya hiss olunur
+Sən deyirsən:
+"Bax, bu İ səsidir, bədənində hiss et"
+3. Güzgü məşqi:
+uşaq güzgüdə özünə baxır
+"İ" səsini deyir
+ağız forması və dil mövqeyi müşahidə olunur
+Söz inteqrasiyası:
+Sən deyirsən:
+"İİİİİİ - İT"
+"İİİİİİ - İLAN"
+Soruş:
+"İT hansı səslə başlayır?"
+Uşaq:
+"İ"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük İ hərfi (nöqtəli İ) göstərilir 
+Sən:
+"Bu İ hərfidir"
+Tapşırıq:
+uşaq toxunur → "İ"
+Söz vizuallaşdırma:
+İT - İLAN  - İP
+Sən deyirsən:
+"Bunların hamısı İ ilə başlayır"
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "İ-ni tut" 
+Ekranda qarışıq simvollar:
+Məs:
+İ - A - SU - İT - DAŞ - İP
+Sən deyirsən:
+"İ gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"İİİİ"
+Ekranda:
+İLAN - EV - DAŞ
+Uşaq:
+"İ" ilə başlayanı seçir
+Oyun 3: "İ haradadır?"
+LED-də sözlər qarışıq yerləşir:
+Məs:
+İ - T - P - A
+İT - SU - EV - İP
+Uşaq:
+İ ilə başlayanları tapır
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "İ varmı?"
+Sən söz deyirsən:
+İT - SU - İLAN  - EV  - İP
+Uşaq:
+"İ varsa reaksiya verir"
+ Fonoloji şüur güclənir
+6. SAKİTLƏŞMƏ (5 dəq)
+Yaşıl işıq yumşaq yanır 
+Sən deyirsən:
+"İİİİİ (çox yavaş)"
+Sonra:
+"İ - İT" (sakit və ritmik)
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"İ ilə hansı sözləri öyrəndik?"
+Kömək et:
+İT - İLAN  - İP
+İŞIQ (əlavə genişləndirmə üçün)
+  DƏRSİN NƏTİCƏSİ
+Uşaq:
+"İ" səsini tanıyır və təkrar edir
+"İ" hərfini vizual olaraq seçə bilir
+İ ilə başlayan sözləri ayırd edir
+Səs-hərf-söz əlaqəsi formalaşır
+Eşitmə və diqqət bacarığı güclənir
+
+    3-CÜ GÜN.
+Diqqət: J səsi + J hərfi + J ilə başlayan sözlər
+-Beyin "sarı - J" əlaqəsini qurur
+Məqsəd
+"J" səsi tanınır (j  - "j"  -  yumşaq "j" səsi) 
+"J" hərfi yadda saxlanır 
+J ilə başlayan sözlər seçilir 
+Səs-hərf-söz əlaqəsi formalaşır 
+Eşitmə fərqləndirmə güclənir 
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə sarı işıq yanır.
+Sən deyirsən:
+"Bu gün biz J ilə oynayırıq"
+Tapşırıq:
+işıq yanır → uşaq toxunur 
+hər toxunuşda sən deyirsən:
+"Jjjjjj" 
+Söz əlavə et:
+"J - JURNAL" 
+"J - JİLET" 
+ Beyin səsi rənglə bağlayır (vizual + eşitmə)
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+Sən:
+"Jjjjjj"
+Uşaq təkrar edir
+ Diqqət: səs yumşaq, "vibrasiya" kimi hiss olunur
+2. Bədənlə hiss etmə:
+əl boğazda 
+səs çıxanda yumşaq titrəyiş hiss edilir 
+Sən deyirsən:
+"Bax, bu J-dir. Səs içəridə titrəyir"
+3. Güzgü məşqi:
+uşaq güzgüdə baxır 
+dodaqlar yumşaq, səs sürüşkən çıxır 
+"Jjjjjj" deyir 
+Söz inteqrasiyası:
+Sən deyirsən:
+"Jjjjjj - JURNAL" 
+"Jjjjjj - JAKET" 
+Soruş:
+"JURNAL hansı səslə başlayır?"
+Uşaq:
+ "J"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED-də böyük J hərfi göstərilir.
+Sən:
+"Bu J-dir"
+Tapşırıq:
+uşaq toxunur → "J" 
+Sözlər:
+JURNAL - JANR-  JALƏ
+Sən deyirsən:
+"Bunların hamısı J ilə başlayır"
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "J-ni tut"
+Ekranda qarışıq elementlər:
+JURNAL - EV - SU - JILET - DAŞ
+Sən:
+"J gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən:
+"Jjjjjj"
+Ekranda:
+JEEP - SU - OX 
+Uşaq:
+ JEEP seçir
+Oyun 3: "J haradadır?"
+LED-də qarışıq həriflər:
+J - A - C - B
+JİLET - EV - JURNAL - DAŞ
+Uşaq:
+ J ilə başlayanları tapır
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "J varmı?"
+Sən söz deyirsən:
+JEEP - EV - JURNAL - SU - DAŞ 
+Uşaq:
+ J varsa reaksiya verir (əl qaldırır / toxunur)
+Fonoloji şüur aktivləşir (eşitmə fərqləndirmə)
+6. SAKİTLƏŞMƏ (5 dəq)
+LED işıq yumşaq  yaşıl olur
+Sən:
+"Jjjjjj" (çox yavaş, pıçıltı kimi)
+Sonda:
+"J - JEEP" (sakit tonla) 
+Uşaq:
+təkrar edir 
+nəfəsi normallaşır 
+SEANSIN SONU
+Soruş:
+"J ilə hansı sözləri gördük?"
+Kömək et:
+JAKET  - JURNAL  - JİLET
+NƏTİCƏ (J dərsindən sonra)
+Uşaq:
+"J" səsini tanıyır 
+J hərfini seçə bilir 
+J ilə başlayan sözləri ayırd edir 
+Səsi vizual rənglə bağlayır (sarı) 
+Səs-hərf-söz əlaqəsi formalaşır 
+Eşitmə diqqəti güclənir
+     
+    4-CÜ GÜN.
+Diqqət: K səsi + K hərfi + K ilə başlayan sözlər
+Məqsəd:
+Beyin "yaşıl - K" əlaqəsini qurur
+Qorxu azalır, maraq artır
+Uşaq "K" səsini tanısın
+"K" hərfini yadda saxlasın
+"K" ilə başlayan sözləri ayırd etsin
+Səs-hərf-söz arasında əlaqə qursun
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız yaşıl işıq istifadə olunur.
+Sən deyirsən:
+"Bu gün biz K ilə oynayırıq"
+Tapşırıq:
+Yaşıl işıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Kkkkk"
+Söz əlavə et:
+Bəzən deyirsən:
+"K - KİTAB"
+"K - KƏPƏNƏK"
+Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+Bu hissə çox vacibdir (neyropedaqoji əsas)
+Tapşırıqlar:
+1. Səsi uzat:
+"Kkkkkk"
+Uşaq təkrar edir
+səni təkrarlayır
+ağzının formasına baxır
+2. Bədənlə hiss etmə:
+əl boğazda
+"K" deyəndə titrəyiş çox zəifdir (fərqi hiss edir)
+Sən deyirsən:
+"Bax, bu K-dir, sakit səslənir, bədənində hiss et"
+3. Güzgü məşqi:
+uşaq güzgüdə özünə baxır
+dil arxada, hava çıxır → "K" deyir
+Bu, xüsusilə disleksiya və inkişaf geriliyi üçün çox effektlidir
+Söz inteqrasiyası:
+İndi səsi sözə keçir:
+Sən deyirsən:
+"Kkkkk - KİTAB"
+"Kkkkk - KÖRPƏ"
+Soruş:
+"KİTAB hansı səslə başlayır?"
+Uşaq:
+"K"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük K hərfi yazılır.
+Sən:
+"Bu K-dir"
+Tapşırıq:
+uşaq toxunur → "K"
+Söz əlavə et:
+K hərfinin yanında qısa sözlər göstər:
+KOSA - KRAN
+Sən deyirsən:
+"Bunların hamısı K ilə başlayır"
+Vizual + motor + səs birləşir
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "K-ni tut"
+Ekranda müxtəlif formalar çıxır
+yalnız K və ya K ilə başlayan sözlərə toxunulur
+Məs:
+K - KİTAB - EV - SU - KƏND
+Sən deyirsən:
+"K gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Kkkkk"
+Ekranda:
+KƏPƏNƏK - SU - OX
+Uşaq:
+KƏPƏNƏK-i seçir
+Oyun 3: "K haradadır?"
+LED-də sözlər qarışıq yerləşir
+uşaq K ilə başlayanları tapır
+Məs:
+K - B - O - K
+KİTAB - EV - KOLA
+Vizual diqqət inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "K varmı?"
+Sən söz deyirsən:
+KAKA - SU - KƏND - EV
+Uşaq:
+K varsa reaksiya verir
+Fonoloji şüur başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+Yaşıl işıq yumşaq yanır
+Sən deyirsən:
+"Kkkkk"
+Sonda əlavə et:
+"K - KÖK" (yavaş)
+Uşaq:
+sakit şəkildə təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"K ilə hansı sözləri gördük?"
+Kömək et:
+KÖK - KİVİ - KİTAB - KƏND - KƏPƏNƏK
+ DƏRSİN NƏTİCƏSİ .
+Uşaq dərsin sonunda:
+"K" səsini tanıyır və təkrar etməyə başlayır
+"K" hərfini görüb seçə bilir
+"K" ilə başlayan sadə sözləri (KAKA, KUKU, KƏND) ayırd edir
+Sözlərin ilk səsinin "K" olduğunu anlamağa başlayır
+Səs-hərf-söz əlaqəsinin ilkin forması yaranır
+Diqqət və reaksiya bacarığı aktivləşir
+ 
+V-Cİ HƏFTƏ - 1-Cİ GÜN.
+Diqqət: Q səsi + Q hərfi + Q ilə başlayan sözlər
+Məqsəd:
+Beyin "yaşıl - Q" əlaqəsini qurur
+Qorxu azalır, maraq artır
+Uşaq "Q" səsini tanısın
+"Q" hərfini yadda saxlasın
+"Q" ilə başlayan sözləri ayırd etsin
+Səs-hərf-söz arasında əlaqə qursun
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız yaşıl işıq istifadə olunur.
+Sən deyirsən:
+"Bu gün biz Q ilə oynayırıq"
+Tapşırıq:
+Yaşıl işıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Qqqqq"
+Söz əlavə et:
+Bəzən deyirsən:
+"Q - QAPI"
+"Q - QAZ"
+Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+(Bu hissə çox vacibdir - neyropedaqoji əsas)
+Tapşırıqlar:
+1. Səsi uzat:
+"Qqqqqq"
+Uşaq təkrar edir
+səni təkrarlayır
+ağız formasına baxır
+2. Bədənlə hiss etmə:
+əl boğazda
+"Q" deyəndə titrəyiş hiss olunur
+Sən deyirsən:
+"Bax, bu Q-dir, bədənində hiss et"
+3. Güzgü məşqi:
+uşaq güzgüdə özünə baxır
+dil arxaya yaxın, boğazdan çıxan səs → "Q" deyir
+(Bu, xüsusilə disleksiya və inkişaf geriliyi üçün çox effektlidir)
+Söz inteqrasiyası:
+İndi səsi sözə keçir:
+Sən deyirsən:
+"Qqqqq - QAPI"
+"Qqqqq - QOZ"
+Soruş:
+"QAPI hansı səslə başlayır?"
+Uşaq:
+"Q"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük Q hərfi yazılır.
+Sən:
+"Bu Q-dır"
+Tapşırıq:
+uşaq toxunur → "Q"
+Söz əlavə et:
+Q hərfinin yanında qısa sözlər göstər:
+QALA - QAPI
+Sən deyirsən:
+"Bunların hamısı Q ilə başlayır"
+Vizual + motor + səs birləşir
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "Q-ni tut"
+Ekranda müxtəlif formalar çıxır
+yalnız Q və ya Q ilə başlayan sözlərə toxunulur
+Məs:
+Q - QAPI - EV - SU - QOZ
+Sən deyirsən:
+"Q gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Qqqqq"
+Ekranda:
+QOZ - SU - AT
+Uşaq:
+QOZ-u seçir
+Oyun 3: "Q haradadır?"
+LED-də sözlər qarışıq yerləşir
+uşaq Q ilə başlayanları tapır
+Məs:
+Q - B - O - Q
+QAPI - EV - QALA
+Vizual diqqət inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "Q varmı?"
+Sən söz deyirsən:
+QAPI - SU - QOZ - EV
+Uşaq:
+Q varsa reaksiya verir
+Fonoloji şüur başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+Yaşıl işıq yumşaq yanır
+Sən deyirsən:
+"Qqqqq"
+Sonda əlavə et:
+"Q - QAPI" (yavaş)
+Uşaq:
+sakit şəkildə təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"Q ilə hansı sözləri gördük?"
+Kömək et:
+QAPI - QOZ - QALA - QAZ - QAYIQ
+ DƏRSİN NƏTİCƏSİ
+Uşaq dərsin sonunda:
+"Q" səsini tanıyır və təkrar etməyə başlayır
+"Q" hərfini görüb seçə bilir
+"Q" ilə başlayan sadə sözləri (QAPI, QOZ, QALA) ayırd edir
+Sözlərin ilk səsinin "Q" olduğunu anlamağa başlayır
+Səs-hərf-söz əlaqəsinin ilkin forması yaranır
+Diqqət və reaksiya bacarığı aktivləşir
+
+2-Cİ GÜN.
+Diqqət: L səsi + L hərfi + L ilə başlayan sözlər
+Məqsəd:
+Beyin "sarı - L" əlaqəsini qurur
+Qorxu azalır, maraq artır
+Uşaq "L" səsini tanısın
+"L" hərfini yadda saxlasın
+"L" ilə başlayan sözləri ayırd etsin
+Səs-hərf-söz arasında əlaqə qursun
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız sarı işıq istifadə olunur.
+Sən deyirsən:
+"Bu gün biz L ilə oynayırıq"
+Tapşırıq:
+Sarı işıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Lllll"
+Söz əlavə et:
+Bəzən deyirsən:
+"L - LİMON"
+"L - LALƏ"
+Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+(Bu hissə çox vacibdir - neyropedaqoji əsas)
+Tapşırıqlar:
+1. Səsi uzat:
+"Llllll"
+Uşaq təkrar edir
+səni təkrarlayır
+ağız formasına baxır
+2. Bədənlə hiss etmə:
+əl boğazda
+"L" deyəndə yüngül titrəyiş hiss olunur
+Sən deyirsən:
+"Bax, bu L-dir, bədənində hiss et"
+3. Güzgü məşqi:
+uşaq güzgüdə özünə baxır
+dil üst dişlərin arxasına toxunur → "L" deyir
+(Bu, xüsusilə disleksiya və inkişaf geriliyi üçün çox effektlidir)
+Söz inteqrasiyası:
+İndi səsi sözə keçir:
+Sən deyirsən:
+"Lllll - LİMON"
+"Lllll - LALƏ"
+Soruş:
+"LİMON hansı səslə başlayır?"
+Uşaq:
+"L"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük L hərfi yazılır.
+Sən:
+"Bu L-dir"
+Tapşırıq:
+uşaq toxunur → "L"
+Söz əlavə et:
+L hərfinin yanında qısa sözlər göstər:
+LALA - LİLƏ
+Sən deyirsən:
+"Bunların hamısı L ilə başlayır"
+Vizual + motor + səs birləşir
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "L-ni tut"
+Ekranda müxtəlif formalar çıxır
+yalnız L və ya L ilə başlayan sözlərə toxunulur
+Məs:
+L - LİMON - EV - SU - LALƏ
+Sən deyirsən:
+"L gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Lllll"
+Ekranda:
+LALƏ - SU - AT
+Uşaq:
+LALƏ-ni seçir
+Oyun 3: "L haradadır?"
+LED-də sözlər qarışıq yerləşir
+uşaq L ilə başlayanları tapır
+Məs:
+L - B - O - L
+LİMON - EV - LALƏ
+Vizual diqqət inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "L varmı?"
+Sən söz deyirsən:
+LİMON - SU - LALƏ - EV
+Uşaq:
+L varsa reaksiya verir
+Fonoloji şüur başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+Sarı işıq yumşaq yanır
+Sən deyirsən:
+"Lllll"
+Sonda əlavə et:
+"L - LALA" (yavaş)
+Uşaq:
+sakit şəkildə təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"L ilə hansı sözləri gördük?"
+Kömək et:
+LİMON - LALƏ - LALA - LİLƏ
+ DƏRSİN NƏTİCƏSİ
+Uşaq dərsin sonunda:
+"L" səsini tanıyır və təkrar etməyə başlayır
+"L" hərfini görüb seçə bilir
+"L" ilə başlayan sadə sözləri (LİMON, LALƏ) ayırd edir
+Sözlərin ilk səsinin "L" olduğunu anlamağa başlayır
+Səs-hərf-söz əlaqəsinin ilkin forması yaranır
+Diqqət və reaksiya bacarığı aktivləşir
+
+3-CÜ GÜN.
+Diqqət: M səsi + M hərfi + M ilə başlayan sözlər
+Məqsəd:
+Beyin "qırmızı - M" əlaqəsini qurur
+Qorxu azalır, maraq artır
+Uşaq "M" səsini tanısın
+"M" hərfini yadda saxlasın
+"M" ilə başlayan sözləri ayırd etsin
+Səs-hərf-söz arasında əlaqə qursun
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız qırmızı işıq istifadə olunur.
+Sən deyirsən:
+"Bu gün biz M ilə oynayırıq"
+Tapşırıq:
+Qırmızı işıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Mmmmm"
+Söz əlavə et:
+Bəzən deyirsən:
+"M - MAŞIN"
+"M - MEYMUN"
+Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+(Bu hissə çox vacibdir - neyropedaqoji əsas)
+Tapşırıqlar:
+1. Səsi uzat:
+"Mmmmm"
+Uşaq təkrar edir
+səni təkrarlayır
+ağız formasına baxır
+2. Bədənlə hiss etmə:
+əl boğazda və ya dodaqlarda
+"M" deyəndə titrəyiş hiss olunur
+Sən deyirsən:
+"Bax, bu M-dir, bədənində hiss et"
+3. Güzgü məşqi:
+uşaq güzgüdə özünə baxır
+dodaqlar bağlı → burundan səs çıxır → "M" deyir
+(Bu, xüsusilə disleksiya və inkişaf geriliyi üçün çox effektlidir)
+Söz inteqrasiyası:
+İndi səsi sözə keçir:
+Sən deyirsən:
+"Mmmmm - MAŞIN"
+"Mmmmm - MEYMUN"
+Soruş:
+"MAŞIN hansı səslə başlayır?"
+Uşaq:
+"M"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük M hərfi yazılır.
+Sən:
+"Bu M-dir"
+Tapşırıq:
+uşaq toxunur → "M"
+Söz əlavə et:
+M hərfinin yanında qısa sözlər göstər:
+MAŞIN - MƏN
+Sən deyirsən:
+"Bunların hamısı M ilə başlayır"
+Vizual + motor + səs birləşir
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "M-ni tut"
+Ekranda müxtəlif formalar çıxır
+yalnız M və ya M ilə başlayan sözlərə toxunulur
+Məs:
+M - MAŞIN - EV - SU - MEYMUN
+Sən deyirsən:
+"M gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Mmmmm"
+Ekranda:
+MEYMUN - SU - AT
+Uşaq:
+MEYMUN-u seçir
+Oyun 3: "M haradadır?"
+LED-də sözlər qarışıq yerləşir
+uşaq M ilə başlayanları tapır
+Məs:
+M - B - O - M
+MAŞIN - EV - MAMA
+Vizual diqqət inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "M varmı?"
+Sən söz deyirsən:
+MAŞIN - SU - MAMA - EV
+Uşaq:
+M varsa reaksiya verir
+Fonoloji şüur başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+Qırmızı işıq yumşaq yanır
+Sən deyirsən:
+"Mmmmm"
+Sonda əlavə et:
+"M - MAMA" (yavaş)
+Uşaq:
+sakit şəkildə təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"M ilə hansı sözləri gördük?"
+Kömək et:
+MAŞIN - MEYMUN - MAMA - MƏN
+ DƏRSİN NƏTİCƏSİ
+Uşaq dərsin sonunda:
+"M" səsini tanıyır və təkrar etməyə başlayır
+"M" hərfini görüb seçə bilir
+"M" ilə başlayan sadə sözləri (MAŞIN, MAMA) ayırd edir
+Sözlərin ilk səsinin "M" olduğunu anlamağa başlayır
+Səs-hərf-söz əlaqəsinin ilkin forması yaranır
+Diqqət və reaksiya bacarığı aktivləşir
+4-CÜ GÜN.
+Diqqət: N səsi + N hərfi + N ilə başlayan sözlər
+Məqsəd:
+Beyin "narıncı - N" əlaqəsini qurur
+Qorxu azalır, maraq artır
+Uşaq "N" səsini tanısın
+"N" hərfini yadda saxlasın
+"N" ilə başlayan sözləri ayırd etsin
+Səs-hərf-söz arasında əlaqə qursun
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yalnız narıncı işıq istifadə olunur.
+Sən deyirsən:
+"Bu gün biz N ilə oynayırıq"
+Tapşırıq:
+Narıncı işıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Nnnnn"
+Söz əlavə et:
+Bəzən deyirsən:
+"N - NAR"
+"N - NƏNƏ"
+Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+(Bu hissə çox vacibdir - neyropedaqoji əsas)
+Tapşırıqlar:
+1. Səsi uzat:
+"Nnnnnn"
+Uşaq təkrar edir
+səni təkrarlayır
+ağız formasına baxır
+2. Bədənlə hiss etmə:
+əl boğazda və burun nahiyəsində
+"N" deyəndə titrəyiş hiss olunur
+Sən deyirsən:
+"Bax, bu N-dir, bədənində hiss et"
+3. Güzgü məşqi:
+uşaq güzgüdə özünə baxır
+dil üst dişlərin arxasında → burundan səs → "N" deyir
+(Bu, xüsusilə disleksiya və inkişaf geriliyi üçün çox effektlidir)
+Söz inteqrasiyası:
+İndi səsi sözə keçir:
+Sən deyirsən:
+"Nnnnn - NAR"
+"Nnnnn - NƏNƏ"
+Soruş:
+"NAR hansı səslə başlayır?"
+Uşaq:
+"N"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük N hərfi yazılır.
+Sən:
+"Bu N-dir"
+Tapşırıq:
+uşaq toxunur → "N"
+Söz əlavə et:
+N hərfinin yanında qısa sözlər göstər:
+NƏNƏ - NAR
+Sən deyirsən:
+"Bunların hamısı N ilə başlayır"
+Vizual + motor + səs birləşir
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "N-ni tut"
+Ekranda müxtəlif formalar çıxır
+yalnız N və ya N ilə başlayan sözlərə toxunulur
+Məs:
+N - NAR - EV - SU - NƏNƏ
+Sən deyirsən:
+"N gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Nnnnn"
+Ekranda:
+NAR - SU - AT
+Uşaq:
+NAR-ı seçir
+Oyun 3: "N haradadır?"
+LED-də sözlər qarışıq yerləşir
+uşaq N ilə başlayanları tapır
+Məs:
+N - B - O - N
+NƏNƏ - EV - NAR
+Vizual diqqət inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "N varmı?"
+Sən söz deyirsən:
+NAR - SU - NƏNƏ - EV
+Uşaq:
+N varsa reaksiya verir
+Fonoloji şüur başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+Narıncı işıq yumşaq yanır
+Sən deyirsən:
+"Nnnnn"
+Sonda əlavə et:
+"N - NƏNƏ" (yavaş)
+Uşaq:
+sakit şəkildə təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"N ilə hansı sözləri gördük?"
+Kömək et:
+NAR - NƏNƏ - NƏNƏM - NUR
+DƏRSİN NƏTİCƏSİ
+Uşaq dərsin sonunda:
+"N" səsini tanıyır və təkrar etməyə başlayır
+"N" hərfini görüb seçə bilir
+"N" ilə başlayan sadə sözləri (NAR, NƏNƏ) ayırd edir
+Sözlərin ilk səsinin "N" olduğunu anlamağa başlayır
+Səs-hərf-söz əlaqəsinin ilkin forması yaranır
+Diqqət və reaksiya bacarığı aktivləşir
+
+  VI-Cİ HƏFTƏ - 1-Cİ GÜN.
+Diqqət: O səsi + O hərfi + O ilə başlayan sözlər
+Məqsəd:
+Beyin "O - səs + hərf + söz" əlaqəsini qurur
+Uşaq "O" səsini tanıyır
+"O" hərfini yadda saxlayır
+"O" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yumşaq sarı və ya narıncı işıq
+Sən deyirsən:
+"Bu gün biz O ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Ooooo"
+Söz əlavə et:
+"O - OTAQ"
+"O - OYUN"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Ooooooo"
+Uşaq:
+səni təkrar edir
+səsin davamlılığını hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu O səsidir, səs ağızdan yumru çıxır"
+Vacib:
+ O səsi dodaqlar yumrulanaraq çıxır (hava sərbəst axır)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dodaqlar dairə şəklində
+Sən:
+"Oooo"
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Oooo - OTAQ"
+"Oooo - OYUN"
+Soruş:
+"OTAQ hansı səslə başlayır?"
+Uşaq:
+"O"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük O hərfi
+Sən deyirsən:
+"Bu O hərfidir"
+Tapşırıq:
+uşaq toxunur → "O"
+Söz vizuallaşdırma:
+OTAQ
+OYUN
+Sən deyirsən:
+"Bunların hamısı O ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "O-nu tut"
+Ekranda qarışıq:
+O - A - E - OTAQ - SU - OYUN
+Tapşırıq:
+yalnız O və O ilə başlayanları tut
+Sən deyirsən:
+"O gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Ooooo"
+Ekranda:
+OTAQ - ALMA - EV
+Uşaq:
+OTAQ seçir
+Oyun 3: "O haradadır?"
+LED-də:
+O - A - E - O
+OTAQ - AT - EL - OYUN
+Tapşırıq:
+O ilə başlayanları tap
+vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "O varmı?"
+Sən sözlər deyirsən:
+OTAQ - ANA  - OYUN  - EV
+Uşaq:
+O varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Ooooo"
+Sonra yavaş:
+"O - OTAQ"
+"O - OYUN"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"O ilə hansı sözləri gördük?"
+Kömək et:
+OTAQ
+OYUN
+DƏRSİN NƏTİCƏSİ (O)
+Uşaq:
+"O" səsini tanıyır və təkrar edir
+"O" hərfini vizual olaraq seçə bilir
+"O" ilə başlayan sadə sözləri ayırd edir (OTAQ, OYUN)
+digər səslərlə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+    
+2-Cİ GÜN.
+Diqqət: Ö səsi + Ö hərfi + Ö ilə başlayan sözlər
+Məqsəd:
+Beyin "Ö - səs + hərf + söz" əlaqəsini qurur
+Uşaq "Ö" səsini tanıyır
+"Ö" hərfini yadda saxlayır
+"Ö" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yumşaq sarı işıq
+Sən deyirsən:
+"Bu gün biz Ö ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Ööööö"
+Söz əlavə et:
+"Ö - ÖRDƏK"
+"Ö - ÖRTÜ"
+ Beyin səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Öööööö"
+Uşaq:
+səni təkrar edir
+səsin davamlılığını hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu Ö səsidir, dodaqları yumru et"
+Vacib:
+ Ö səsi dodaqlar yumru + dil önə yaxın vəziyyətdə çıxır
+(O ilə fərqi: səs daha incədir)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dodaqlar dairəvi, bir az irəli
+Sən:
+"Öööö"
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Ööö - ÖRDƏK"
+"Ööö - ÖRTÜ"
+Soruş:
+"ÖRDƏK hansı səslə başlayır?"
+Uşaq:
+"Ö"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük Ö hərfi
+Sən deyirsən:
+"Bu Ö hərfidir"
+Tapşırıq:
+uşaq toxunur → "Ö"
+Söz vizuallaşdırma:
+ÖRDƏK
+ÖRTÜ
+Sən deyirsən:
+"Bunların hamısı Ö ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "Ö-nü tut"
+Ekranda qarışıq:
+Ö - O - A - ÖRDƏK - SU - ÖRTÜ
+Tapşırıq:
+yalnız Ö və Ö ilə başlayanları tut
+Sən deyirsən:
+"Ö gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Ööööö"
+Ekranda:
+ÖRDƏK - ALMA - EV
+Uşaq:
+ÖRDƏK seçir
+Oyun 3: "Ö haradadır?"
+LED-də:
+Ö - O - E - Ö
+ÖRDƏK - AT - EL - ÖRTÜ
+Tapşırıq:
+Ö ilə başlayanları tap
+vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "Ö varmı?"
+Sən sözlər deyirsən:
+ÖRDƏK - ANA  - ÖRTÜ  - EV
+Uşaq:
+Ö varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Öööö"
+Sonra yavaş:
+"Ö - ÖRDƏK"
+"Ö - ÖRTÜ"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"Ö ilə hansı sözləri gördük?"
+Kömək et:
+ÖRDƏK
+ÖRTÜ
+ DƏRSİN NƏTİCƏSİ (Ö)
+Uşaq:
+"Ö" səsini tanıyır və təkrar edir
+"Ö" hərfini vizual olaraq seçə bilir
+"Ö" ilə başlayan sadə sözləri ayırd edir (ÖRDƏK, ÖRTÜ)
+O səsi ilə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+
+3-Cİ GÜN.
+Diqqət: P səsi + P hərfi + P ilə başlayan sözlər
+Məqsəd:
+Beyin "P - səs + hərf + söz" əlaqəsini qurur
+Uşaq "P" səsini tanıyır
+"P" hərfini yadda saxlayır
+"P" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə canlı narıncı  işıq
+Sən deyirsən:
+"Bu gün biz P ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"P! P! P!" (qısa, partlayıcı)
+Söz əlavə et:
+"P - PAPAQ"
+"P - PİŞİK"
+ Beyin səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi çıxart:
+"P! P! P!"
+Uşaq:
+səni təkrar edir
+səsin "partlama" kimi çıxdığını hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu P səsidir, havanı hiss et"
+Vacib:
+ P səsi dodaqlar bağlı → birdən açılır → hava çıxır
+(partlayıcı samit)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dodaqlar əvvəl bağlı
+Sən:
+"P!" (açılır)
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"P - PAPAQ"
+"P - PİŞİK"
+Soruş:
+"PAPAQ hansı səslə başlayır?"
+Uşaq:
+"P"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük P hərfi
+Sən deyirsən:
+"Bu P hərfidir"
+Tapşırıq:
+uşaq toxunur → "P"
+Söz vizuallaşdırma:
+PAPAQ
+PİŞİK
+Sən deyirsən:
+"Bunların hamısı P ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "P-ni tut"
+Ekranda qarışıq:
+P - B - M - PAPAQ - SU - PİŞİK
+Tapşırıq:
+yalnız P və P ilə başlayanları tut
+Sən deyirsən:
+"P gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"P! P!"
+Ekranda:
+PAPAQ - ALMA - EV
+Uşaq:
+PAPAQ seçir
+Oyun 3: "P haradadır?"
+LED-də:
+P - A - E - P
+PAPAQ - AT - EL - PİŞİK
+Tapşırıq:
+P ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "P varmı?"
+Sən sözlər deyirsən:
+PAPAQ  - ANA  - PİŞİK  - EV
+Uşaq:
+P varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"P... P..." (yavaş və sakit)
+Sonra:
+"P - PAPAQ"
+"P - PİŞİK"
+Uşaq:
+sakit təkrar edir
+nəfəsini tənzimləyir
+SEANSIN SONU
+Soruş:
+"P ilə hansı sözləri gördük?"
+Kömək et:
+PAPAQ
+PİŞİK
+ DƏRSİN NƏTİCƏSİ (P)
+Uşaq:
+"P" səsini tanıyır və təkrar edir
+"P" hərfini vizual olaraq seçə bilir
+"P" ilə başlayan sadə sözləri ayırd edir (PAPAQ, PİŞİK)
+digər səslərlə (xüsusilə B) fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+ 
+4-Cİ GÜN.
+Diqqət: R səsi + R hərfi + R ilə başlayan sözlər
+Məqsəd:
+Beyin "R - səs + hərf + söz" əlaqəsini qurur
+Uşaq "R" səsini tanıyır
+"R" hərfini yadda saxlayır
+"R" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə diqqət cəlb edən qırmızı işıq
+Sən deyirsən:
+"Bu gün biz R ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Rrrrr"
+Söz əlavə et:
+"R - RƏNG"
+"R - RƏQS"
+ Beyin səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Rrrrrrr"
+Uşaq:
+səni təkrar edir
+səsin titrəmə (vibrasiya) xüsusiyyətini hiss edir
+2. Bədənlə hiss etmə:
+əl boğazın və ya yanağın yanında
+Sən deyirsən:
+"Bu R səsidir, titrəməni hiss et"
+Vacib:
+ R səsi dilin ucu yuxarıda titrəyərək çıxır
+(titrəyən samit)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dil yuxarı dişlərin arxasına yaxın
+Sən:
+"Rrrrr"
+ Artikulyasiya düzgün formalaşır
+Kömək üsulu (əgər çətindirsə):
+əvvəl "D" səsini tez-tez de: "D-D-D"
+sonra uzat → "Drrrr"
+ R səsinə keçidi asanlaşdırır
+Söz inteqrasiyası:
+"Rrr - RƏNG"
+"Rrr - RƏQS"
+Soruş:
+"RƏNG hansı səslə başlayır?"
+Uşaq:
+"R"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük R hərfi
+Sən deyirsən:
+"Bu R hərfidir"
+Tapşırıq:
+uşaq toxunur → "R"
+Söz vizuallaşdırma:
+RƏNG
+RƏQS
+Sən deyirsən:
+"Bunların hamısı R ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "R-ni tut"
+Ekranda qarışıq:
+R - L - M - RƏNG - SU - RƏQS
+Tapşırıq:
+yalnız R və R ilə başlayanları tut
+Sən deyirsən:
+"R gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Rrrrr"
+Ekranda:
+RƏNG - ALMA - EV
+Uşaq:
+RƏNG seçir
+Oyun 3: "R haradadır?"
+LED-də:
+R - A - E - R
+RƏNG - AT - EL - RƏQS
+Tapşırıq:
+R ilə başlayanları tap
+vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "R varmı?"
+Sən sözlər deyirsən:
+RƏNG - ANA  - RƏQS  - EV
+Uşaq:
+R varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Rrrrr" (yumşaq)
+Sonra:
+"R - RƏNG"
+"R - RƏQS"
+Uşaq:
+sakit təkrar edir
+nəfəsini tənzimləyir
+SEANSIN SONU
+Soruş:
+"R ilə hansı sözləri gördük?"
+Kömək et:
+RƏNG
+RƏQS
+ DƏRSİN NƏTİCƏSİ (R)
+Uşaq:
+"R" səsini tanıyır və təkrar edir
+"R" hərfini vizual olaraq seçə bilir
+"R" ilə başlayan sadə sözləri ayırd edir (RƏNG, RƏQS)
+digər səslərlə (xüsusilə L) fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+
+  VII -Cİ HƏFTƏ - 1-Cİ GÜN.
+Diqqət: S səsi + S hərfi + S ilə başlayan sözlər
+Məqsəd:
+Beyin "S - səs + hərf + söz" əlaqəsini qurur
+Uşaq "S" səsini tanıyır
+"S" hərfini yadda saxlayır
+"S" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə sarı işıq (diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz S ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Sssss"
+Söz əlavə et:
+"S - SU"
+"S - SƏBƏT"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Sssssss"
+Uşaq:
+səni təkrar edir
+səsin davamlılığını hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu S səsidir, havanı hiss et"
+Vacib: S səsi incə və davamlı hava ilə çıxır (fısıltı kimi)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dişlər bir-birinə yaxın
+dil aşağıda
+"S" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Ssss - SU"
+"Ssss - SƏN"
+Soruş:
+"SU hansı səslə başlayır?"
+Uşaq:
+"S"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük S hərfi
+Sən deyirsən:
+"Bu S hərfidir"
+Tapşırıq:
+uşaq toxunur → "S"
+Söz vizuallaşdırma:
+SU - SƏBƏT
+Sən deyirsən:
+"Bunların hamısı S ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "S-ni tut"
+Ekranda qarışıq:
+S - A - E - SU - EV - SƏN
+Tapşırıq:
+yalnız S və S ilə başlayanları tut
+Sən deyirsən:
+"S gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Sssss"
+Ekranda:
+SU - ALMA - EV
+Uşaq:
+SU seçir
+Oyun 3: "S haradadır?"
+LED-də:
+S - A - E - S
+SU - AT - EL - SƏN
+Tapşırıq:
+S ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "S varmı?"
+Sən sözlər deyirsən:
+SU - ANA - SƏN - EV
+Uşaq:
+S varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Sssss"
+Sonra yavaş:
+"S - SU"
+"S - SƏN"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"S ilə hansı sözləri gördük?"
+Kömək et:
+SU - SƏN - SƏBƏT
+DƏRSİN NƏTİCƏSİ (S)
+Uşaq:
+"S" səsini tanıyır və təkrar edir
+"S" hərfini vizual olaraq seçə bilir
+"S" ilə başlayan sadə sözləri ayırd edir (SU, SƏN)
+digər səslərlə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+   2-Cİ GÜN.
+Diqqət: Ş səsi + Ş hərfi + Ş ilə başlayan sözlər
+Məqsəd:
+Beyin "Ş - səs + hərf + söz" əlaqəsini qurur
+Uşaq "Ş" səsini tanıyır
+"Ş" hərfini yadda saxlayır
+"Ş" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə mavi işıq (sakit diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz Ş ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Şşşş"
+Söz əlavə et:
+"Ş - ŞAM"
+"Ş - ŞİRƏ"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Şşşşşş"
+Uşaq:
+səni təkrar edir
+səsin davamlılığını hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu Ş səsidir, havanı hiss et"
+Vacib: Ş səsi yumşaq, davamlı və geniş hava ilə çıxır (pıçıltı kimi)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dodaqlar bir az irəli
+dişlər aralı
+dil aşağıda və arxaya yaxın
+"Ş" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Şşşşşş - ŞAM"
+"Şşşşşş- ŞƏKƏR"
+Soruş:
+"ŞAM hansı səslə başlayır?"
+Uşaq:
+"Ş"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük Ş hərfi
+Sən deyirsən:
+"Bu Ş hərfidir"
+Tapşırıq:
+uşaq toxunur → "Ş"
+Söz vizuallaşdırma:
+ŞAM - ŞƏKƏR
+Sən deyirsən:
+"Bunların hamısı Ş ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "Ş-ni tut"
+Ekranda qarışıq:
+Ş - S - A - ŞAM - SU - ŞƏKƏR
+Tapşırıq:
+yalnız Ş və Ş ilə başlayanları tut
+Sən deyirsən:
+"Ş gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Şşşş"
+Ekranda:
+ŞAM - ALMA - EV
+Uşaq:
+ŞAM seçir
+Oyun 3: "Ş haradadır?"
+LED-də:
+Ş - S - A - Ş
+ŞAM - AT - EL - ŞİRƏ
+Tapşırıq:
+Ş ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "Ş varmı?"
+Sən sözlər deyirsən:
+ŞAM - ANA - ŞİRƏ - EV
+Uşaq:
+Ş varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Şşşş"
+Sonra yavaş:
+"Ş - ŞAM"
+"Ş - ŞƏKƏR"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"Ş ilə hansı sözləri gördük?"
+Kömək et:
+ŞAM - ŞİRƏ - ŞƏKƏR
+ DƏRSİN NƏTİCƏSİ (Ş)
+Uşaq:
+"Ş" səsini tanıyır və təkrar edir
+"Ş" hərfini vizual olaraq seçə bilir
+"Ş" ilə başlayan sadə sözləri ayırd edir (ŞAM, ŞİRƏ)
+S və digər səslərlə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+
+   3-CÜ GÜN.
+Diqqət: T səsi + T hərfi + T ilə başlayan sözlər
+Məqsəd:
+Beyin "T - səs + hərf + söz" əlaqəsini qurur
+Uşaq "T" səsini tanıyır
+"T" hərfini yadda saxlayır
+"T" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə qırmızı işıq (aktiv diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz T ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Tttttttt!"
+Söz əlavə et:
+"T - TOP"
+"T - TAXTA"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi çıxart:
+"T! T! T!" (qısa və aydın)
+Uşaq:
+səni təkrar edir
+səsin kəsik (partlayıcı) olduğunu hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu T səsidir, havanı hiss et"
+Vacib: T səsi qısa, ani hava çıxışı ilə yaranır (partlayış kimi)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dil yuxarı dişlərin arxasına toxunur
+ağız açılıb tez bağlanır
+"T" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"T - TOP"
+"T - TƏKƏR"
+Soruş:
+"TOP hansı səslə başlayır?"
+Uşaq:
+"T"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük T hərfi
+Sən deyirsən:
+"Bu T hərfidir"
+Tapşırıq:
+uşaq toxunur → "T"
+Söz vizuallaşdırma:
+TOP - TƏKƏR
+Sən deyirsən:
+"Bunların hamısı T ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "T-ni tut"
+Ekranda qarışıq:
+T - A - S - TOP - SU - TƏKƏR
+Tapşırıq:
+yalnız T və T ilə başlayanları tut
+Sən deyirsən:
+"T gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"T! T! T!"
+Ekranda:
+TOP - ALMA - EV
+Uşaq:
+TOP seçir
+Oyun 3: "T haradadır?"
+LED-də:
+T - S - A - T
+TOP - AT - EL - TƏKƏR
+Tapşırıq:
+T ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "T varmı?"
+Sən sözlər deyirsən:
+TOP - ANA - TƏKƏR - EV
+Uşaq:
+T varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"T... T... T..." (yavaş və sakit)
+Sonra:
+"T - TOP"
+"T - TƏKƏR"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"T ilə hansı sözləri gördük?"
+Kömək et:
+TOP - TƏKƏR - TAxta
+ DƏRSİN NƏTİCƏSİ (T)
+Uşaq:
+"T" səsini tanıyır və təkrar edir
+"T" hərfini vizual olaraq seçə bilir
+"T" ilə başlayan sadə sözləri ayırd edir (TOP, TƏKƏR)
+digər səslərlə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+   4-CÜ GÜN.
+Diqqət: U səsi + U hərfi + U ilə başlayan sözlər
+Məqsəd:
+Beyin "U - səs + hərf + söz" əlaqəsini qurur
+Uşaq "U" səsini tanıyır
+"U" hərfini yadda saxlayır
+"U" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə bənövşəyi işıq (diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz U ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Uuuuu"
+Söz əlavə et:
+"U - UŞAQ"
+"U - ULDUZ"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Uuuuuu"
+Uşaq:
+səni təkrar edir
+səsin davamlılığını hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu U səsidir, havanı hiss et"
+Vacib: U səsi dodaqlar irəli yığılaraq, davamlı və yumşaq hava ilə çıxır
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dodaqlar dairəvi (irəli yığılmış)
+dil arxaya yaxın
+"U" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Uuuuuu - UŞAQ"
+"Uuuuuu - UZUN"
+Soruş:
+"UŞAQ hansı səslə başlayır?"
+Uşaq:
+"U"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük U hərfi
+Sən deyirsən:
+"Bu U hərfidir"
+Tapşırıq:
+uşaq toxunur → "U"
+Söz vizuallaşdırma:
+UŞAQ - ULDUZ
+Sən deyirsən:
+"Bunların hamısı U ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "U-nu tut"
+Ekranda qarışıq:
+U - A - S - UŞAQ - SU - ULDUZ
+Tapşırıq:
+yalnız U və U ilə başlayanları tut
+Sən deyirsən:
+"U gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Uuuuu"
+Ekranda:
+UŞAQ - ALMA - EV
+Uşaq:
+UŞAQ seçir
+Oyun 3: "U haradadır?"
+LED-də:
+U - S - A - U
+UŞAQ - AT - EL - ULDUZ
+Tapşırıq:
+U ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "U varmı?"
+Sən sözlər deyirsən:
+UŞAQ - ANA - ULDUZ - EV
+Uşaq:
+U varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Uuuuu"
+Sonra yavaş:
+"U - UŞAQ"
+"U - ULDUZ"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"U ilə hansı sözləri gördük?"
+Kömək et:
+UŞAQ - ULDUZ - UZUN
+DƏRSİN NƏTİCƏSİ (U)
+Uşaq:
+"U" səsini tanıyır və təkrar edir
+"U" hərfini vizual olaraq seçə bilir
+"U" ilə başlayan sadə sözləri ayırd edir (UŞAQ, ULDUZ)
+digər səslərlə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+  
+    VIII -Cİ HƏFTƏ - 1-Cİ GÜN.
+Diqqət: Ü səsi + Ü hərfi + Ü ilə başlayan sözlər
+Məqsəd:
+Beyin "Ü - səs + hərf + söz" əlaqəsini qurur
+Uşaq "Ü" səsini tanıyır
+"Ü" hərfini yadda saxlayır
+"Ü" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə açıq yaşıl işıq (yumşaq diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz Ü ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Üüüüü"
+Söz əlavə et:
+"Ü - ÜZÜM"
+"Ü - ÜRƏK"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Üüüüüü"
+Uşaq:
+səni təkrar edir
+səsin davamlılığını hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu Ü səsidir, havanı hiss et"
+Vacib: Ü səsi dodaqlar irəli yığılaraq, amma daha incə və ön səslə çıxır (U-dan fərqli olaraq daha "incə" səslənir)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dodaqlar dairəvi və irəli
+dil ön hissəyə yaxın
+"Ü" deyir
+Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Üüüüü - ÜZÜM"
+"Üüüüü - ÜST"
+Soruş:
+"ÜZÜM hansı səslə başlayır?"
+Uşaq:
+"Ü"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük Ü hərfi
+Sən deyirsən:
+"Bu Ü hərfidir"
+Tapşırıq:
+uşaq toxunur → "Ü"
+Söz vizuallaşdırma:
+ÜZÜM - ÜRƏK
+Sən deyirsən:
+"Bunların hamısı Ü ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "Ü-nü tut"
+Ekranda qarışıq:
+Ü - U - A - ÜZÜM - SU - ÜST
+Tapşırıq:
+yalnız Ü və Ü ilə başlayanları tut
+Sən deyirsən:
+"Ü gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Üüüüü"
+Ekranda:
+ÜZÜM - ALMA - EV
+Uşaq:
+ÜZÜM seçir
+Oyun 3: "Ü haradadır?"
+LED-də:
+Ü - U - A - Ü
+ÜZÜM - AT - EL - ÜST
+Tapşırıq:
+Ü ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "Ü varmı?"
+Sən sözlər deyirsən:
+ÜZÜM - ANA - ÜST - EV
+Uşaq:
+Ü varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Üüüüü"
+Sonra yavaş:
+"Ü - ÜZÜM"
+"Ü - ÜRƏK"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"Ü ilə hansı sözləri gördük?"
+Kömək et:
+ÜZÜM - ÜRƏK - ÜST
+ DƏRSİN NƏTİCƏSİ (Ü)
+Uşaq:
+"Ü" səsini tanıyır və təkrar edir
+"Ü" hərfini vizual olaraq seçə bilir
+"Ü" ilə başlayan sadə sözləri ayırd edir (ÜZÜM, ÜRƏK)
+U səsi ilə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+
+2-Cİ GÜN.
+Diqqət: V səsi + V hərfi + V ilə başlayan sözlər
+Məqsəd:
+Beyin "V - səs + hərf + söz" əlaqəsini qurur
+Uşaq "V" səsini tanıyır
+"V" hərfini yadda saxlayır
+"V" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə yaşıl işıq (diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz V ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Vvvvv"
+Söz əlavə et:
+"V - VAR"
+"V - VƏRƏQ"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Vvvvvvv"
+Uşaq:
+səni təkrar edir
+səsin titrəməsini hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında və ya boğazda
+Sən deyirsən:
+"Bu V səsidir, titrəməni hiss et"
+Vacib: V səsi dodaq və dişin təması ilə çıxır və boğazda titrəmə var (səslidir)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+üst diş alt dodağa toxunur
+hava verərək "V" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Vvv - VAR"
+"Vvv - VAZA"
+Soruş:
+"VAR hansı səslə başlayır?"
+Uşaq:
+"V"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük V hərfi
+Sən deyirsən:
+"Bu V hərfidir"
+Tapşırıq:
+uşaq toxunur → "V"
+Söz vizuallaşdırma:
+VAR - VAZA
+Sən deyirsən:
+"Bunların hamısı V ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "V-ni tut"
+Ekranda qarışıq:
+V - B - A - VAR - SU - VAZA
+Tapşırıq:
+yalnız V və V ilə başlayanları tut
+Sən deyirsən:
+"V gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Vvvvv"
+Ekranda:
+VAR - ALMA - EV
+Uşaq:
+VAR seçir
+Oyun 3: "V haradadır?"
+LED-də:
+V - B - A - V
+VAR - AT - EL - VƏRƏQ
+Tapşırıq:
+V ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "V varmı?"
+Sən sözlər deyirsən:
+VAR - ANA - VAZA - EV
+Uşaq:
+V varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Vvvvv"
+Sonra yavaş:
+"V - VAR"
+"V - VAZA"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"V ilə hansı sözləri gördük?"
+Kömək et:
+VAR - VAZA - VƏRƏQ
+DƏRSİN NƏTİCƏSİ (V)
+Uşaq:
+"V" səsini tanıyır və təkrar edir
+"V" hərfini vizual olaraq seçə bilir
+"V" ilə başlayan sadə sözləri ayırd edir (VAR, VAZA)
+digər səslərlə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+  
+3-Cİ GÜN.
+Diqqət: Y səsi + Y hərfi + Y ilə başlayan sözlər
+Məqsəd:
+Beyin "Y - səs + hərf + söz" əlaqəsini qurur
+Uşaq "Y" səsini tanıyır
+"Y" hərfini yadda saxlayır
+"Y" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə açıq mavi işıq (diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz Y ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Yyyy"
+Söz əlavə et:
+"Y - YOL"
+"Y - YEMƏK"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Yyyyyy"
+Uşaq:
+səni təkrar edir
+səsin yumşaq axıcılığını hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında
+Sən deyirsən:
+"Bu Y səsidir, yumşaq çıxışı hiss et"
+Vacib: Y səsi yumşaq və sürüşkən səsdir, sərt partlayış yoxdur
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+ağız bir az açıq
+dil ön hissəyə yaxın
+"Y" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Yy yyy- YOL"
+"Yyyyy - YEL"
+Soruş:
+"YOL hansı səslə başlayır?"
+Uşaq:
+"Y"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük Y hərfi
+Sən deyirsən:
+"Bu Y hərfidir"
+Tapşırıq:
+uşaq toxunur → "Y"
+Söz vizuallaşdırma:
+YOL - YEMƏK
+Sən deyirsən:
+"Bunların hamısı Y ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "Y-ni tut"
+Ekranda qarışıq:
+Y - A - V - YOL - SU - YEMƏK
+Tapşırıq:
+yalnız Y və Y ilə başlayanları tut
+Sən deyirsən:
+"Y gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Yyyyy"
+Ekranda:
+YOL - ALMA - EV
+Uşaq:
+YOL seçir
+Oyun 3: "Y haradadır?"
+LED-də:
+Y - V - A - Y
+YOL - AT - EL - YEMƏK
+Tapşırıq:
+Y ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "Y varmı?"
+Sən sözlər deyirsən:
+YOL - ANA - YEMƏK - EV
+Uşaq:
+Y varsa reaksiya verir
+fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Yyyyy"
+Sonra yavaş:
+"Y - YOL"
+"Y - YEL"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"Y ilə hansı sözləri gördük?"
+Kömək et:
+YOL - YEMƏK - YEL
+DƏRSİN NƏTİCƏSİ (Y)
+Uşaq:
+"Y" səsini tanıyır və təkrar edir
+"Y" hərfini vizual olaraq seçə bilir
+"Y" ilə başlayan sadə sözləri ayırd edir (YOL, YEMƏK)
+digər səslərlə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+
+    4-CüÜGÜN.
+Diqqət: Z səsi + Z hərfi + Z ilə başlayan sözlər
+Məqsəd:
+Beyin "Z - səs + hərf + söz" əlaqəsini qurur
+Uşaq "Z" səsini tanıyır
+"Z" hərfini yadda saxlayır
+"Z" ilə başlayan sözləri ayırd edir
+Səs-hərf-söz arasında əlaqə formalaşır
+Artikulyasiya və fonoloji şüur güclənir
+Ümumi müddət: 40 dəqiqə
+1. SENSOR AKTİVLƏŞMƏ (5 dəq)
+LED lövhədə sarı  işıq (diqqət oyandırıcı)
+Sən deyirsən:
+"Bu gün biz Z ilə oynayırıq"
+Tapşırıq:
+İşıq yanır → uşaq toxunur
+Hər toxunuşda sən deyirsən:
+"Zzzzz"
+Söz əlavə et:
+"Z - ZƏNG"
+"Z - ZEBRA"
+ Beyin artıq səsi sözlə bağlamağa başlayır
+2. SƏSİ HİSS ETMƏ (10 dəq)
+1. Səsi uzat:
+"Zzzzzz"
+Uşaq:
+səni təkrar edir
+səsin titrəməsini hiss edir
+2. Bədənlə hiss etmə:
+əl ağzın qarşısında və ya boğazda
+Sən deyirsən:
+"Bu Z səsidir, titrəməni hiss et"
+Vacib: Z səsi dişlərə yaxın çıxır və boğazda titrəmə var (S səsinin səslisi kimidir)
+3. Güzgü məşqi:
+uşaq güzgüyə baxır
+dişlər bir-birinə yaxın
+dil aşağıda
+"Z" deyir
+ Artikulyasiya düzgün formalaşır
+Söz inteqrasiyası:
+"Zzz - ZƏNG"
+"Zzz - ZAMAN"
+Soruş:
+"ZƏNG hansı səslə başlayır?"
+Uşaq:
+"Z"
+3. HƏRF TANIŞLIĞI (5 dəq)
+LED lövhədə böyük Z hərfi
+Sən deyirsən:
+"Bu Z hərfidir"
+Tapşırıq:
+uşaq toxunur → "Z"
+Söz vizuallaşdırma:
+ZƏNG - ZAMAN
+Sən deyirsən:
+"Bunların hamısı Z ilə başlayır"
+ vizual + motor + səs əlaqəsi qurulur
+4. LED OYUNLARI (15 dəq)
+Oyun 1: "Z-ni tut"
+Ekranda qarışıq:
+Z - S - A - ZƏNG - SU - ZAMAN
+Tapşırıq:
+yalnız Z və Z ilə başlayanları tut
+Sən deyirsən:
+"Z gələndə tut!"
+Oyun 2: "Səsi eşit - tap"
+Sən deyirsən:
+"Zzzzz"
+Ekranda:
+ZƏNG - ALMA - EV
+Uşaq:
+ZƏNG seçir
+Oyun 3: "Z haradadır?"
+LED-də:
+Z - S - A - Z
+ZƏNG - AT - EL - ZAMAN
+Tapşırıq:
+Z ilə başlayanları tap
+ vizual fərqləndirmə inkişaf edir
+5. KOQNİTİV OYUN (5 dəq)
+Oyun: "Z varmı?"
+Sən sözlər deyirsən:
+ZƏNG - ANA - ZAMAN - EV
+Uşaq:
+Z varsa reaksiya verir
+ fonoloji ayırdetmə başlayır
+6. SAKİTLƏŞMƏ (5 dəq)
+İşıq yumşaq şəkildə yanır
+Sən deyirsən:
+"Zzzzz"
+Sonra yavaş:
+"Z - ZƏNG"
+"Z - ZAMAN"
+Uşaq:
+sakit təkrar edir
+nəfəs alıb verir
+SEANSIN SONU
+Soruş:
+"Z ilə hansı sözləri gördük?"
+Kömək et:
+ZƏNG - ZAMAN - ZEBRA
+DƏRSİN NƏTİCƏSİ (Z)
+Uşaq:
+"Z" səsini tanıyır və təkrar edir
+"Z" hərfini vizual olaraq seçə bilir
+"Z" ilə başlayan sadə sözləri ayırd edir (ZƏNG, ZAMAN)
+S səsi ilə fərqini hiss etməyə başlayır
+Səs-hərf-söz əlaqəsi formalaşır
+Artikulyasiya və fonoloji şüur inkişaf edir
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+67
+
+
